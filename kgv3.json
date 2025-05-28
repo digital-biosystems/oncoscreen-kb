@@ -1,0 +1,369 @@
+{
+    "knowledge": {
+        "HKY-aJmi": {
+            "name": "Stool-based miR-221 demonstrated a significant increase in expression levels in colorectal cancer (CRC) patients compared to healthy controls, with an AUC of 0.75 when combined with miR-18a, indicating its potential as a diagnostic biomarker for CRC.",
+            "doc_id": "10.1038/bjc.2014.484",
+            "llm_id": "mistral-large:123b/T-1nW",
+            "details": [
+                {
+                    "subject": "Stool-based miR-221",
+                    "predicate": "demonstrated",
+                    "object": "significant increase in expression levels"
+                },
+                {
+                    "subject": "Stool-based miR-221",
+                    "predicate": "indicated",
+                    "object": "potential as a diagnostic biomarker for CRC"
+                }
+            ],
+            "entities": {
+                "Stool-based": "ENTITY",
+                "miR-221": "ENTITY",
+                "increase": "ENTITY",
+                "expression levels": "ENTITY",
+                "colorectal cancer": "ENTITY",
+                "CRC": "ENTITY",
+                "patients": "ENTITY",
+                "healthy controls": "ENTITY",
+                "AUC": "ENTITY",
+                "miR-18a": "ENTITY",
+                "potential": "ENTITY",
+                "diagnostic": "ENTITY",
+                "biomarker": "ENTITY"
+            }
+        },
+        "3zdyme5g": {
+            "name": "miR-18a alone showed a relatively low AUC value of 0.67 in the detection of CRC, suggesting that it may not be an effective standalone biomarker but could enhance diagnostic accuracy when combined with miR-221.",
+            "doc_id": "10.1038/bjc.2014.484",
+            "llm_id": "mistral-large:123b/T-1nW",
+            "details": [
+                {
+                    "subject": "miR-18a alone",
+                    "predicate": "showed",
+                    "object": "relatively low AUC value of 0.67"
+                },
+                {
+                    "subject": "AUC value of 0.67",
+                    "predicate": "in",
+                    "object": "detection of CRC"
+                },
+                {
+                    "subject": "miR-18a alone",
+                    "predicate": "suggesting",
+                    "object": "it may not be an effective standalone biomarker"
+                },
+                {
+                    "subject": "miR-18a alone",
+                    "predicate": "could enhance",
+                    "object": "diagnostic accuracy"
+                },
+                {
+                    "subject": "diagnostic accuracy",
+                    "predicate": "when combined with",
+                    "object": "miR-221"
+                }
+            ],
+            "entities": {
+                "miR-18a": "ENTITY",
+                "low": "ENTITY",
+                "AUC": "ENTITY",
+                "detection": "ENTITY",
+                "CRC": "ENTITY",
+                "effective": "ENTITY",
+                "standalone": "ENTITY",
+                "biomarker": "ENTITY",
+                "diagnostic accuracy": "ENTITY",
+                "miR-221": "ENTITY"
+            }
+        },
+        "B5dSi6jv": {
+            "name": "Antibiotic intake within 30 days prior to stool collection did not significantly affect the expression levels of miR-221 and miR-18a in CRC patients, indicating that antibiotic use does not interfere with microRNA detection in stool samples.",
+            "doc_id": "10.1038/bjc.2014.484",
+            "llm_id": "mistral-large:123b/T-1nW",
+            "details": [
+                {
+                    "subject": "Antibiotic intake within 30 days prior to stool collection",
+                    "predicate": "did not affect",
+                    "object": "expression levels of miR-221 and miR-18a in CRC patients"
+                },
+                {
+                    "subject": "antibiotic use",
+                    "predicate": "does not interfere with",
+                    "object": "microRNA detection in stool samples"
+                }
+            ],
+            "entities": {
+                "Antibiotic": "ENTITY",
+                "days": "ENTITY",
+                "stool collection": "ENTITY",
+                "expression": "ENTITY",
+                "miR-221": "ENTITY",
+                "miR-18a": "ENTITY",
+                "CRC": "ENTITY",
+                "patients": "ENTITY",
+                "antibiotic": "ENTITY",
+                "use": "ENTITY",
+                "microRNA": "ENTITY",
+                "detection": "ENTITY",
+                "stool samples": "ENTITY"
+            }
+        },
+        "-HOq9f4y": {
+            "name": "miR-24, previously used as an internal control in other studies, was found to be upregulated in CRC tissues, questioning its reliability as a control for stool-based miRNA analysis.",
+            "doc_id": "10.1038/bjc.2014.484",
+            "llm_id": "mistral-large:123b/T-1nW",
+            "details": [
+                {
+                    "subject": "miR-24",
+                    "predicate": "used as",
+                    "object": "internal control"
+                },
+                {
+                    "subject": "miR-24",
+                    "predicate": "found to be",
+                    "object": "upregulated in CRC tissues"
+                },
+                {
+                    "subject": "miR-24",
+                    "predicate": "questioning its reliability as",
+                    "object": "control for stool-based miRNA analysis"
+                }
+            ],
+            "entities": {
+                "miR-24": "ENTITY",
+                "internal control": "ENTITY",
+                "studies": "ENTITY",
+                "upregulated": "ENTITY",
+                "CRC": "ENTITY",
+                "tissues": "ENTITY",
+                "questioning": "ENTITY",
+                "reliability": "ENTITY",
+                "control": "ENTITY",
+                "stool-based": "ENTITY",
+                "miRNA analysis": "ENTITY"
+            }
+        },
+        "zuQAusgb": {
+            "name": "The amplification efficiency of miR-221 was superior to that of miR-92a and miR-135b, making it a more practical choice for CRC screening programs.",
+            "doc_id": "10.1038/bjc.2014.484",
+            "llm_id": "mistral-large:123b/T-1nW",
+            "details": [
+                {
+                    "subject": "The amplification efficiency of miR-221",
+                    "predicate": "was superior to",
+                    "object": "that of miR-92a and miR-135b"
+                },
+                {
+                    "subject": "it",
+                    "predicate": "making",
+                    "object": "a more practical choice for CRC screening programs"
+                }
+            ],
+            "entities": {
+                "amplification": "ENTITY",
+                "efficiency": "ENTITY",
+                "miR-221": "ENTITY",
+                "miR-92a": "ENTITY",
+                "miR-135b": "ENTITY",
+                "CRC": "ENTITY",
+                "screening programs": "ENTITY"
+            }
+        },
+        "GzBV0cIe": {
+            "name": "Combining microRNA-21-5p and microRNA-92a-3p with their cluster members (including microRNA-18a-5p, microRNA-29a-3p, and microRNA-20a-5p) enhances the performance of various combinations for detecting colorectal cancer.",
+            "doc_id": "10.3390/ijms241311023",
+            "llm_id": "mistral-large:123b/T-1nW",
+            "details": [
+                {
+                    "subject": "Combining microRNA-21-5p",
+                    "predicate": "enhances",
+                    "object": "performance"
+                },
+                {
+                    "subject": "Combining microRNA-92a-3p",
+                    "predicate": "enhances",
+                    "object": "performance"
+                },
+                {
+                    "subject": "microRNA-18a-5p",
+                    "predicate": "includes in",
+                    "object": "cluster members"
+                },
+                {
+                    "subject": "microRNA-29a-3p",
+                    "predicate": "includes in",
+                    "object": "cluster members"
+                },
+                {
+                    "subject": "microRNA-20a-5p",
+                    "predicate": "includes in",
+                    "object": "cluster members"
+                }
+            ],
+            "entities": {
+                "microRNA-21-5p": "ENTITY",
+                "microRNA-92a-3p": "ENTITY",
+                "cluster members": "ENTITY",
+                "microRNA-18a-5p": "ENTITY",
+                "microRNA-29a-3p": "ENTITY",
+                "microRNA-20a-5p": "ENTITY",
+                "enhances": "ENTITY",
+                "performance": "ENTITY",
+                "combinations": "ENTITY",
+                "detecting": "ENTITY",
+                "colorectal cancer": "ENTITY"
+            }
+        },
+        "3BfJY5Xo": {
+            "name": "The miRFec algorithm, which leverages the differential expression of specific fecal microRNAs in conjunction with FIT, sex, and age, shows a sensitivity of 79.00% for detecting advanced adenomas.",
+            "doc_id": "10.3390/ijms241311023",
+            "llm_id": "mistral-large:123b/T-1nW",
+            "details": [
+                {
+                    "subject": "The miRFec algorithm",
+                    "predicate": "leverages",
+                    "object": "the differential expression of specific fecal microRNAs"
+                },
+                {
+                    "subject": "The miRFec algorithm",
+                    "predicate": "leverages in conjunction with",
+                    "object": "FIT, sex, and age"
+                },
+                {
+                    "subject": "The miRFec algorithm",
+                    "predicate": "shows",
+                    "object": "a sensitivity of 79.00% for detecting advanced adenomas"
+                }
+            ],
+            "entities": {
+                "algorithm": "ENTITY",
+                "differential": "ENTITY",
+                "expression": "ENTITY",
+                "fecal": "ENTITY",
+                "microRNAs": "ENTITY",
+                "conjunction": "ENTITY",
+                "FIT": "ENTITY",
+                "sex": "ENTITY",
+                "age": "ENTITY",
+                "sensitivity": "ENTITY",
+                "detecting": "ENTITY",
+                "advanced adenomas": "ENTITY"
+            }
+        },
+        "XvR-Lk8p": {
+            "name": "MicroRNA-21-5p and microRNA-92a-3p frequently feature in combination panels, effectively enhancing the performance of various combinations for colorectal cancer detection.",
+            "doc_id": "10.3390/ijms241311023",
+            "llm_id": "mistral-large:123b/T-1nW",
+            "details": [
+                {
+                    "subject": "MicroRNA-21-5p",
+                    "predicate": "feature in",
+                    "object": "combination panels"
+                },
+                {
+                    "subject": "microRNA-92a-3p",
+                    "predicate": "feature in",
+                    "object": "combination panels"
+                },
+                {
+                    "subject": "MicroRNA-21-5p and microRNA-92a-3p",
+                    "predicate": "enhance",
+                    "object": "performance of various combinations for colorectal cancer detection"
+                }
+            ],
+            "entities": {
+                "MicroRNA-21-5p": "ENTITY",
+                "microRNA-92a-3p": "ENTITY",
+                "combination": "ENTITY",
+                "panels": "ENTITY",
+                "performance": "ENTITY",
+                "combinations": "ENTITY",
+                "colorectal cancer": "ENTITY",
+                "detection": "ENTITY"
+            }
+        },
+        "kdicu2hh": {
+            "name": "In stool samples, microRNAs have shown superiority over DNA methylation as a diagnostic tool for early CRC detection.",
+            "doc_id": "10.3390/ijms241311023",
+            "llm_id": "mistral-large:123b/T-1nW",
+            "details": [
+                {
+                    "subject": "microRNAs",
+                    "predicate": "have shown",
+                    "object": "superiority"
+                },
+                {
+                    "subject": "microRNAs",
+                    "predicate": "have shown superiority over",
+                    "object": "DNA methylation"
+                }
+            ],
+            "entities": {
+                "stool samples": "ENTITY",
+                "microRNAs": "ENTITY",
+                "superiority": "ENTITY",
+                "DNA methylation": "ENTITY",
+                "diagnostic tool": "ENTITY",
+                "early": "ENTITY",
+                "CRC": "ENTITY",
+                "detection": "ENTITY"
+            }
+        },
+        "4UHvQF6A": {
+            "name": "Combining microRNAs from the miR-17-92a cluster shows promise for detecting advanced adenomas, particularly in blood samples.",
+            "doc_id": "10.3390/ijms241311023",
+            "llm_id": "mistral-large:123b/T-1nW",
+            "details": [
+                {
+                    "subject": "Combining microRNAs",
+                    "predicate": "shows",
+                    "object": "promise"
+                },
+                {
+                    "subject": "microRNAs",
+                    "predicate": "from",
+                    "object": "miR-17-92a cluster"
+                },
+                {
+                    "subject": "Combining microRNAs from the miR-17-92a cluster",
+                    "predicate": "for detecting",
+                    "object": "advanced adenomas"
+                }
+            ],
+            "entities": {
+                "microRNAs": "ENTITY",
+                "miR-17": "ENTITY",
+                "cluster": "ENTITY",
+                "detecting": "ENTITY",
+                "advanced adenomas": "ENTITY",
+                "blood samples": "ENTITY"
+            }
+        }
+    },
+    "documents": {
+        "10.1038/bjc.2014.484": {
+            "doi": "10.1038/bjc.2014.484",
+            "short_citation": "(Yau;2014-09-18)",
+            "long_citation": "Yau, et al., microRNA-221 and microRNA-18a identification in stool as potential biomarkers for the non-invasive diagnosis of colorectal carcinoma, , 2014-09-18"
+        },
+        "10.3390/ijms241311023": {
+            "doi": "10.3390/ijms241311023",
+            "short_citation": "(Santos;2023-07-03)",
+            "long_citation": "Santos, et al., MicroRNA Biomarkers as Promising Tools for Early Colorectal Cancer Screening-A Comprehensive Review, , 2023-07-03"
+        },
+        "null": {
+            "doi": null,
+            "short_citation": "(Unknown;Unknown)",
+            "long_citation": "Unknown, et al., Unknown Title, , Unknown"
+        }
+    },
+    "lang_info": {
+        "mistral-large:123b/T-1nW": {
+            "llm_tag": "mistral-large:123b",
+            "ner_tag": "en_ner_bionlp13cg_md",
+            "vector_distance": "en_ner_bionlp13cg_md",
+            "prompt_template": "[BEGIN ARTICLE] {article} [END ARTICLE]\n[INSTRUCTIONS]\nIn the article above find up to 5 important strong positive or negative findings that are original results\nconfirming or disproving some previous studies about a biomarker and it's role in some disease risk, diagnosis, prognosis or treatment. Do not include findings that are in introduction section referred from other sources.\nThe finding should be about relationship between biomarker and disease (risk, diagnosis, prognosis).\nList the findings in detailed sentences using vocabulary understandable for domain expert used in the article. Be as specific as possible, \nDo include as much details as possible from the article. \nDo not include authors or their abbreviation that performed the study usually expressed by terms 'analyzed by ...', 'organized by ...'.\nDo not include just that something was studied or analysed.\nDo not include findings that are just cited from another source. Do not include general findings without details.\nInstead of 'the study revealed that (some content)', just output '(some content)'.\nInstead of 'some' or 'certain' use specific numbers, specific objects or subjects from the article. If not such numbers or details are in the article, do not include sich finding.\nReturn the list in a JSON array of strings in the format: '[\"finding1\",\"finding2\",\"finding3\"]'\nDo not add any other structure in JSON, just array of strings. Do not include any other explanation or notes, just array of strings in JSON.\n",
+            "prompt_entities_template": "\nFollowing is the Entities and Sentence. In the following sentence generate knowledge graph tripplets with the following entities in the JSON format. \nOnly if really necessary, add other entities from the sentence, but otherwise use just the Entities. \nOutput only JSON and do not include any other explanation, notes or suggestion. \nThe 'predicate' in tripplet should contain only verb itself and at most a preposition. \nThe 'subject' and 'object' in tripplet can contain substantive, adjective, number, adverbs and other.\n\nEntities: {entities}\nSentence: {finding}\n"
+        }
+    }
+}

@@ -1,0 +1,1409 @@
+{
+    "knowledge": {
+        "SJmGAVu5": {
+            "name": "High PVT1 expression in colorectal cancer correlates with poor overall survival and advanced disease stages.",
+            "doc_id": "10.48047/nq.2023.21.6.NQ23120",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "High PVT1 expression in colorectal cancer",
+                    "predicate": "correlates with",
+                    "object": "poor overall survival"
+                },
+                {
+                    "subject": "High PVT1 expression in colorectal cancer",
+                    "predicate": "correlates with",
+                    "object": "advanced disease stages"
+                }
+            ],
+            "entities": {
+                "PVT1": "GENE_OR_GENE_PRODUCT",
+                "colorectal cancer": "CANCER",
+                "disease": "CANCER"
+            }
+        },
+        "7mRh1KzM": {
+            "name": "Liquid biopsy methods show potential for non-invasive monitoring of PVT1 levels in CRC patients.",
+            "doc_id": "10.48047/nq.2023.21.6.NQ23120",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "Liquid biopsy methods",
+                    "predicate": "show",
+                    "object": "potential"
+                }
+            ],
+            "entities": {
+                "PVT1": "GENE_OR_GENE_PRODUCT",
+                "CRC patients": "CANCER"
+            }
+        },
+        "fMvONt8F": {
+            "name": "Elevated PVT1 levels are associated with resistance to 5-FU and cisplatin, impacting treatment outcomes.",
+            "doc_id": "10.48047/nq.2023.21.6.NQ23120",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "Elevated PVT1 levels",
+                    "predicate": "are associated with",
+                    "object": "resistance to 5-FU"
+                },
+                {
+                    "subject": "Elevated PVT1 levels",
+                    "predicate": "are associated with",
+                    "object": "cisplatin"
+                },
+                {
+                    "subject": "Elevated PVT1 levels",
+                    "predicate": "impact",
+                    "object": "treatment outcomes"
+                },
+                {
+                    "subject": "cisplatin",
+                    "predicate": "relates",
+                    "object": "5-FU"
+                }
+            ],
+            "entities": {
+                "PVT1": "GENE_OR_GENE_PRODUCT",
+                "5-FU": "SIMPLE_CHEMICAL",
+                "cisplatin": "SIMPLE_CHEMICAL"
+            }
+        },
+        "UND9LFKV": {
+            "name": "A meta-analysis across 39 studies confirms that higher PVT1 expression is linked to worse survival in multiple cancers, including CRC.",
+            "doc_id": "10.48047/nq.2023.21.6.NQ23120",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "A meta-analysis across 39 studies",
+                    "predicate": "confirms",
+                    "object": "higher PVT1 expression is linked to worse survival in multiple cancers"
+                },
+                {
+                    "subject": "higher PVT1 expression",
+                    "predicate": "is linked to",
+                    "object": "worse survival"
+                },
+                {
+                    "subject": "worse survival",
+                    "predicate": "exists in",
+                    "object": "multiple cancers"
+                },
+                {
+                    "subject": "multiple cancers",
+                    "predicate": "include",
+                    "object": "CRC"
+                },
+                {
+                    "subject": "cancers",
+                    "predicate": "relates",
+                    "object": "multiple cancers"
+                }
+            ],
+            "entities": {
+                "PVT1": "GENE_OR_GENE_PRODUCT",
+                "cancers": "CANCER",
+                "CRC": "CANCER"
+            }
+        },
+        "zDIzCLMb": {
+            "name": "The rs1252200336 polymorphism in PVT1 increases CRC risk by 2.71 times and predicts lower survival rates.",
+            "doc_id": "10.48047/nq.2023.21.6.NQ23120",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "rs1252200336 polymorphism in PVT1",
+                    "predicate": "increases",
+                    "object": "CRC risk by 2.71 times"
+                },
+                {
+                    "subject": "rs1252200336 polymorphism in PVT1",
+                    "predicate": "predicts",
+                    "object": "lower survival rates"
+                }
+            ],
+            "entities": {
+                "PVT1": "GENE_OR_GENE_PRODUCT",
+                "CRC": "CANCER"
+            }
+        },
+        "gSUwF9nE": {
+            "name": "Elevated YKL-40 in epithelial cells suggests inflammation-associated malignant transformation and promotes dysplasia in colonic cells.",
+            "doc_id": "10.1007/5584_2020_506",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "Elevated YKL-40",
+                    "predicate": "suggests",
+                    "object": "inflammation-associated malignant transformation"
+                },
+                {
+                    "subject": "Elevated YKL-40",
+                    "predicate": "promotes",
+                    "object": "dysplasia in colonic cells"
+                },
+                {
+                    "subject": "colonic cells",
+                    "predicate": "relates",
+                    "object": "dysplasia in colonic cells"
+                },
+                {
+                    "subject": "Elevated YKL-40",
+                    "predicate": "relates",
+                    "object": "YKL-40"
+                }
+            ],
+            "entities": {
+                "YKL-40": "GENE_OR_GENE_PRODUCT",
+                "epithelial cells": "CELL",
+                "dysplasia": "CANCER",
+                "colonic cells": "CELL"
+            }
+        },
+        "3nH_eC96": {
+            "name": "Nestin expression correlates with higher microvessel density (MVD) and worse survival outcomes in colorectal cancer patients.",
+            "doc_id": "10.1007/5584_2020_506",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "Nestin expression",
+                    "predicate": "correlates with",
+                    "object": "higher microvessel density (MVD)"
+                },
+                {
+                    "subject": "Nestin expression",
+                    "predicate": "correlates with",
+                    "object": "worse survival outcomes in colorectal cancer patients"
+                },
+                {
+                    "subject": "Nestin",
+                    "predicate": "relates",
+                    "object": "Nestin expression"
+                },
+                {
+                    "subject": "colorectal cancer patients",
+                    "predicate": "relates",
+                    "object": "worse survival outcomes in colorectal cancer patients"
+                }
+            ],
+            "entities": {
+                "Nestin": "GENE_OR_GENE_PRODUCT",
+                "microvessel": "TISSUE",
+                "colorectal cancer patients": "CANCER"
+            }
+        },
+        "ty8tlatD": {
+            "name": "Testin protein is downregulated in colorectal cancer tissues, associated with histological grade but not TNM stage, and its overexpression suppresses tumor cell growth and promotes apoptosis.",
+            "doc_id": "10.1007/5584_2020_506",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "Testin protein",
+                    "predicate": "is downregulated in",
+                    "object": "colorectal cancer tissues"
+                },
+                {
+                    "subject": "Testin protein",
+                    "predicate": "is associated with",
+                    "object": "histological grade"
+                },
+                {
+                    "subject": "Testin protein",
+                    "predicate": "is not associated with",
+                    "object": "TNM stage"
+                },
+                {
+                    "subject": "overexpression of Testin protein",
+                    "predicate": "suppresses",
+                    "object": "tumor cell growth"
+                },
+                {
+                    "subject": "overexpression of Testin protein",
+                    "predicate": "promotes",
+                    "object": "apoptosis"
+                },
+                {
+                    "subject": "tumor cell",
+                    "predicate": "relates",
+                    "object": "tumor cell growth"
+                },
+                {
+                    "subject": "overexpression of Testin protein",
+                    "predicate": "relates",
+                    "object": "Testin protein"
+                },
+                {
+                    "subject": "Testin",
+                    "predicate": "relates",
+                    "object": "Testin protein"
+                }
+            ],
+            "entities": {
+                "Testin": "GENE_OR_GENE_PRODUCT",
+                "colorectal cancer tissues": "CANCER",
+                "tumor cell": "CELL"
+            }
+        },
+        "QLEHp96o": {
+            "name": "YKL-40 activates the NF-\u03baB signaling pathway, leading to increased production of interleukin-8 (IL-8) and tumor necrosis factor-\u03b1 (TNF-\u03b1), contributing to colorectal cancer progression.",
+            "doc_id": "10.1007/5584_2020_506",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "YKL-40",
+                    "predicate": "activates",
+                    "object": "NF-\u03baB signaling pathway"
+                },
+                {
+                    "subject": "YKL-40",
+                    "predicate": "leads to increased production of",
+                    "object": "interleukin-8 (IL-8)"
+                },
+                {
+                    "subject": "YKL-40",
+                    "predicate": "leads to increased production of",
+                    "object": "tumor necrosis factor-\u03b1 (TNF-\u03b1)"
+                },
+                {
+                    "subject": "YKL-40",
+                    "predicate": "contributes to",
+                    "object": "colorectal cancer progression"
+                },
+                {
+                    "subject": "IL-8",
+                    "predicate": "relates",
+                    "object": "interleukin-8 (IL-8)"
+                },
+                {
+                    "subject": "colorectal cancer",
+                    "predicate": "relates",
+                    "object": "colorectal cancer progression"
+                }
+            ],
+            "entities": {
+                "YKL-40": "GENE_OR_GENE_PRODUCT",
+                "IL-8": "GENE_OR_GENE_PRODUCT",
+                "tumor": "CANCER",
+                "colorectal cancer": "CANCER"
+            }
+        },
+        "TD3VY00K": {
+            "name": "Nestin labeling identifies smaller tumor microvessels with weaker basement membranes, correlating with aggressive tumor behavior and poor prognosis.",
+            "doc_id": "10.1007/5584_2020_506",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "Nestin labeling",
+                    "predicate": "identifies",
+                    "object": "smaller tumor microvessels with weaker basement membranes"
+                },
+                {
+                    "subject": "Nestin labeling",
+                    "predicate": "correlates with",
+                    "object": "aggressive tumor behavior and poor prognosis"
+                },
+                {
+                    "subject": "Nestin",
+                    "predicate": "relates",
+                    "object": "Nestin labeling"
+                }
+            ],
+            "entities": {
+                "Nestin": "GENE_OR_GENE_PRODUCT",
+                "tumor microvessels": "TISSUE",
+                "basement membranes": "CELLULAR_COMPONENT",
+                "tumor": "CANCER"
+            }
+        },
+        "0tdckPIu": {
+            "name": "SFRP2 and SDC2 methylation biomarkers show promise in enhancing colorectal cancer (CRC) detection.",
+            "doc_id": "10.1080/1354750X.2023.2247185",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "SFRP2 and SDC2 methylation biomarkers",
+                    "predicate": "show promise in enhancing",
+                    "object": "colorectal cancer (CRC) detection"
+                },
+                {
+                    "subject": "colorectal cancer",
+                    "predicate": "relates",
+                    "object": "CRC"
+                },
+                {
+                    "subject": "colorectal cancer",
+                    "predicate": "relates",
+                    "object": "colorectal cancer (CRC) detection"
+                },
+                {
+                    "subject": "CRC",
+                    "predicate": "relates",
+                    "object": "colorectal cancer (CRC) detection"
+                }
+            ],
+            "entities": {
+                "SFRP2": "GENE_OR_GENE_PRODUCT",
+                "SDC2": "GENE_OR_GENE_PRODUCT",
+                "colorectal cancer": "CANCER",
+                "CRC": "CANCER"
+            }
+        },
+        "nsA6NAWC": {
+            "name": "miR-1290, miR-506, and miR-4316 are identified as potential biomarkers for CRC detection with significant diagnostic potential.",
+            "doc_id": "10.1080/1354750X.2023.2247185",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "miR-1290",
+                    "predicate": "are identified as",
+                    "object": "potential biomarkers for CRC detection with significant diagnostic potential"
+                },
+                {
+                    "subject": "miR-506",
+                    "predicate": "are identified as",
+                    "object": "potential biomarkers for CRC detection with significant diagnostic potential"
+                },
+                {
+                    "subject": "miR-4316",
+                    "predicate": "are identified as",
+                    "object": "potential biomarkers for CRC detection with significant diagnostic potential"
+                },
+                {
+                    "subject": "miR-1290",
+                    "predicate": "relates",
+                    "object": "miR-506"
+                }
+            ],
+            "entities": {
+                "CRC": "CANCER"
+            }
+        },
+        "VZJiAmXX": {
+            "name": "NTS levels and U2 snRNA fragments are highlighted as promising serum and plasma markers for CRC screening.",
+            "doc_id": "10.1080/1354750X.2023.2247185",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "NTS levels",
+                    "predicate": "highlighted as",
+                    "object": "promising serum markers"
+                },
+                {
+                    "subject": "U2 snRNA fragments",
+                    "predicate": "highlighted as",
+                    "object": "plasma markers"
+                },
+                {
+                    "subject": "U2 snRNA",
+                    "predicate": "relates",
+                    "object": "U2 snRNA fragments"
+                }
+            ],
+            "entities": {
+                "U2 snRNA": "GENE_OR_GENE_PRODUCT",
+                "serum": "ORGANISM_SUBSTANCE",
+                "plasma": "ORGANISM_SUBSTANCE",
+                "CRC": "CANCER"
+            }
+        },
+        "59XNMtcT": {
+            "name": "Methylated cfDNA and m5C methylation alterations in immune cells of the blood demonstrate potential as diagnostic markers for CRC.",
+            "doc_id": "10.1080/1354750X.2023.2247185",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "Methylated cfDNA",
+                    "predicate": "demonstrate potential as",
+                    "object": "diagnostic markers for CRC"
+                },
+                {
+                    "subject": "m5C methylation alterations in immune cells of the blood",
+                    "predicate": "demonstrate potential as",
+                    "object": "diagnostic markers for CRC"
+                }
+            ],
+            "entities": {
+                "cfDNA": "CELL",
+                "m5C": "SIMPLE_CHEMICAL",
+                "immune cells": "CELL",
+                "blood": "ORGANISM_SUBSTANCE",
+                "CRC": "CANCER"
+            }
+        },
+        "nLb-kpC5": {
+            "name": "Extracellular vesicles (EVs) and lateral flow immunoassays (LFIA) exhibit potential for swift and effective CRC screening.",
+            "doc_id": "10.1080/1354750X.2023.2247185",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "Extracellular vesicles (EVs)",
+                    "predicate": "exhibit",
+                    "object": "potential for swift and effective CRC screening"
+                },
+                {
+                    "subject": "lateral flow immunoassays (LFIA)",
+                    "predicate": "exhibit",
+                    "object": "potential for swift and effective CRC screening"
+                },
+                {
+                    "subject": "Extracellular vesicles (EVs)",
+                    "predicate": "relates",
+                    "object": "Extracellular vesicles"
+                }
+            ],
+            "entities": {
+                "Extracellular vesicles": "CELLULAR_COMPONENT",
+                "EVs": "SIMPLE_CHEMICAL",
+                "lateral": "ORGANISM_SUBSTANCE",
+                "CRC": "CANCER"
+            }
+        },
+        "ndFSlwXp": {
+            "name": "Exosomal miR-1470 was found to be highly expressed in patients with metastatic colorectal cancer (CRC) and showed potential as a non-invasive diagnostic marker for CRC.",
+            "doc_id": "10.1002/cam4.7117",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "Exosomal miR-1470",
+                    "predicate": "was found to be highly expressed",
+                    "object": "in patients with metastatic colorectal cancer (CRC)"
+                },
+                {
+                    "subject": "Exosomal miR-1470",
+                    "predicate": "showed potential as",
+                    "object": "a non-invasive diagnostic marker"
+                },
+                {
+                    "subject": "in patients with metastatic colorectal cancer (CRC)",
+                    "predicate": "relates",
+                    "object": "metastatic colorectal cancer"
+                },
+                {
+                    "subject": "in patients with metastatic colorectal cancer (CRC)",
+                    "predicate": "relates",
+                    "object": "CRC"
+                },
+                {
+                    "subject": "metastatic colorectal cancer",
+                    "predicate": "relates",
+                    "object": "CRC"
+                },
+                {
+                    "subject": "Exosomal",
+                    "predicate": "relates",
+                    "object": "Exosomal miR-1470"
+                }
+            ],
+            "entities": {
+                "Exosomal": "CELLULAR_COMPONENT",
+                "patients": "ORGANISM",
+                "metastatic colorectal cancer": "CANCER",
+                "CRC": "CANCER"
+            }
+        },
+        "nSmVdPgr": {
+            "name": "The expression level of miR-1470 was significantly correlated with the age of CRC patients, suggesting its association with age-related biological processes in tumor development.",
+            "doc_id": "10.1002/cam4.7117",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "The expression level of miR-1470",
+                    "predicate": "was significantly correlated with",
+                    "object": "the age of CRC patients"
+                },
+                {
+                    "subject": "miR-1470",
+                    "predicate": "is associated with",
+                    "object": "age-related biological processes"
+                },
+                {
+                    "subject": "age-related biological processes",
+                    "predicate": "are involved in",
+                    "object": "tumor development"
+                },
+                {
+                    "subject": "tumor development",
+                    "predicate": "relates",
+                    "object": "tumor"
+                },
+                {
+                    "subject": "CRC patients",
+                    "predicate": "relates",
+                    "object": "the age of CRC patients"
+                }
+            ],
+            "entities": {
+                "CRC patients": "CANCER",
+                "tumor": "CANCER"
+            }
+        },
+        "eGwxBwbN": {
+            "name": "Most CRC patients exhibited lower than normal levels of high-density lipoprotein (HDL), and combining HDL analysis with exosomal miR-1470 improved diagnostic accuracy for CRC.",
+            "doc_id": "10.1002/cam4.7117",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "Most CRC patients",
+                    "predicate": "exhibited",
+                    "object": "lower than normal levels of high-density lipoprotein (HDL)"
+                },
+                {
+                    "subject": "combining HDL analysis with exosomal miR-1470",
+                    "predicate": "improved",
+                    "object": "diagnostic accuracy for CRC"
+                },
+                {
+                    "subject": "lower than normal levels of high-density lipoprotein (HDL)",
+                    "predicate": "relates",
+                    "object": "high-density lipoprotein"
+                },
+                {
+                    "subject": "lower than normal levels of high-density lipoprotein (HDL)",
+                    "predicate": "relates",
+                    "object": "HDL"
+                },
+                {
+                    "subject": "Most CRC patients",
+                    "predicate": "relates",
+                    "object": "CRC patients"
+                },
+                {
+                    "subject": "high-density lipoprotein",
+                    "predicate": "relates",
+                    "object": "HDL"
+                },
+                {
+                    "subject": "CRC patients",
+                    "predicate": "relates",
+                    "object": "CRC"
+                }
+            ],
+            "entities": {
+                "CRC patients": "CANCER",
+                "high-density lipoprotein": "PATHOLOGICAL_FORMATION",
+                "HDL": "SIMPLE_CHEMICAL",
+                "exosomal": "CELLULAR_COMPONENT",
+                "CRC": "CANCER"
+            }
+        },
+        "dGzgfDaZ": {
+            "name": "miR-1470 was found to be involved in key signaling pathways such as PI3K-AKT, cAMP, and MAPK, which are critical for cell proliferation, survival, and metastasis in CRC.",
+            "doc_id": "10.1002/cam4.7117",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "miR-1470",
+                    "predicate": "involved_in",
+                    "object": "key signaling pathways"
+                },
+                {
+                    "subject": "PI3K-AKT",
+                    "predicate": "is_type_of",
+                    "object": "key signaling pathway"
+                },
+                {
+                    "subject": "cAMP",
+                    "predicate": "is_type_of",
+                    "object": "key signaling pathway"
+                },
+                {
+                    "subject": "MAPK",
+                    "predicate": "is_type_of",
+                    "object": "key signaling pathway"
+                },
+                {
+                    "subject": "key signaling pathways",
+                    "predicate": "critical_for",
+                    "object": "cell proliferation"
+                },
+                {
+                    "subject": "key signaling pathways",
+                    "predicate": "critical_for",
+                    "object": "survival"
+                },
+                {
+                    "subject": "key signaling pathways",
+                    "predicate": "critical_for",
+                    "object": "metastasis in CRC"
+                },
+                {
+                    "subject": "key signaling pathways",
+                    "predicate": "relates",
+                    "object": "key signaling pathway"
+                },
+                {
+                    "subject": "cell",
+                    "predicate": "relates",
+                    "object": "cell proliferation"
+                },
+                {
+                    "subject": "metastasis in CRC",
+                    "predicate": "relates",
+                    "object": "CRC"
+                }
+            ],
+            "entities": {
+                "PI3K-AKT": "GENE_OR_GENE_PRODUCT",
+                "MAPK": "GENE_OR_GENE_PRODUCT",
+                "cell": "CELL",
+                "CRC": "CANCER"
+            }
+        },
+        "p3oCUyt6": {
+            "name": "Higher levels of miR-1470 were associated with advanced tumor stages and lymph node metastasis in CRC patients, indicating its role in promoting cancer progression.",
+            "doc_id": "10.1002/cam4.7117",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "Higher levels of miR-1470",
+                    "predicate": "were associated with",
+                    "object": "advanced tumor stages"
+                },
+                {
+                    "subject": "Higher levels of miR-1470",
+                    "predicate": "were associated with",
+                    "object": "lymph node metastasis in CRC patients"
+                },
+                {
+                    "subject": "Higher levels of miR-1470",
+                    "predicate": "indicates",
+                    "object": "its role in promoting cancer progression"
+                },
+                {
+                    "subject": "lymph node metastasis in CRC patients",
+                    "predicate": "relates",
+                    "object": "lymph node"
+                }
+            ],
+            "entities": {
+                "tumor": "CANCER",
+                "lymph node": "MULTI_TISSUE_STRUCTURE",
+                "CRC patients": "CANCER",
+                "cancer": "CANCER"
+            }
+        },
+        "BPM1i9TN": {
+            "name": "MSI-H/dMMR colorectal cancer (CRC) patients exhibit improved clinical outcomes with immunotherapy, offering long-term survival or near-curative results.",
+            "doc_id": "10.3390/cancers16162796",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "MSI-H/dMMR colorectal cancer (CRC) patients",
+                    "predicate": "exhibit",
+                    "object": "improved clinical outcomes"
+                },
+                {
+                    "subject": "improved clinical outcomes",
+                    "predicate": "offer",
+                    "object": "long-term survival"
+                },
+                {
+                    "subject": "improved clinical outcomes",
+                    "predicate": "offer",
+                    "object": "near-curative results"
+                },
+                {
+                    "subject": "MSI-H/dMMR colorectal cancer (CRC) patients",
+                    "predicate": "relates",
+                    "object": "colorectal cancer"
+                },
+                {
+                    "subject": "MSI-H/dMMR colorectal cancer (CRC) patients",
+                    "predicate": "relates",
+                    "object": "CRC"
+                },
+                {
+                    "subject": "colorectal cancer",
+                    "predicate": "relates",
+                    "object": "CRC"
+                }
+            ],
+            "entities": {
+                "colorectal cancer": "CANCER",
+                "CRC": "CANCER",
+                "patients": "ORGANISM"
+            }
+        },
+        "HLkD5hvc": {
+            "name": "BRAF V600E mutation has a negative prognostic value but is predictive of response to combined BRAF/EGFR inhibition, doubling survival over standard treatments in CRC patients.",
+            "doc_id": "10.3390/cancers16162796",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "BRAF V600E mutation",
+                    "predicate": "has",
+                    "object": "negative prognostic value"
+                },
+                {
+                    "subject": "BRAF V600E mutation",
+                    "predicate": "is predictive of response to",
+                    "object": "combined BRAF/EGFR inhibition"
+                },
+                {
+                    "subject": "combined BRAF/EGFR inhibition",
+                    "predicate": "doubles survival over",
+                    "object": "standard treatments in CRC patients"
+                },
+                {
+                    "subject": "BRAF V600E mutation",
+                    "predicate": "relates",
+                    "object": "BRAF"
+                }
+            ],
+            "entities": {
+                "BRAF": "GENE_OR_GENE_PRODUCT",
+                "CRC patients": "CANCER"
+            }
+        },
+        "TvH1BWhD": {
+            "name": "Reduced HLA class I expression in MSI-H/dMMR CRC is associated with immune evasion and primary resistance to immunotherapy.",
+            "doc_id": "10.3390/cancers16162796",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "Reduced HLA class I expression in MSI-H/dMMR CRC",
+                    "predicate": "is associated with",
+                    "object": "immune evasion and primary resistance to immunotherapy"
+                },
+                {
+                    "subject": "HLA class",
+                    "predicate": "relates",
+                    "object": "Reduced HLA class I expression in MSI-H/dMMR CRC"
+                }
+            ],
+            "entities": {
+                "HLA class": "GENE_OR_GENE_PRODUCT",
+                "CRC": "CANCER"
+            }
+        },
+        "Q-rdhV1-": {
+            "name": "High MCL-1 expression correlates with chemoresistance and increased macrophage infiltration in CRC tumors, influencing tumor proliferation and epithelial-mesenchymal transition (EMT).",
+            "doc_id": "10.3390/cancers16162796",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "High MCL-1 expression",
+                    "predicate": "correlates with",
+                    "object": "chemoresistance"
+                },
+                {
+                    "subject": "High MCL-1 expression",
+                    "predicate": "correlates with",
+                    "object": "increased macrophage infiltration in CRC tumors"
+                },
+                {
+                    "subject": "High MCL-1 expression",
+                    "predicate": "influencing",
+                    "object": "tumor proliferation"
+                },
+                {
+                    "subject": "tumor",
+                    "predicate": "relates",
+                    "object": "tumor proliferation"
+                }
+            ],
+            "entities": {
+                "MCL-1": "GENE_OR_GENE_PRODUCT",
+                "macrophage": "CELL",
+                "CRC tumors": "CANCER",
+                "tumor": "CANCER",
+                "epithelial-mesenchymal": "CELLULAR_COMPONENT"
+            }
+        },
+        "ioJDg5FQ": {
+            "name": "Oncogenic KRAS reprograms cellular metabolism, making KRAS-mutant CRC more susceptible to ferroptosis induction as a potential therapeutic strategy.",
+            "doc_id": "10.3390/cancers16162796",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "Oncogenic KRAS",
+                    "predicate": "reprograms",
+                    "object": "cellular metabolism"
+                },
+                {
+                    "subject": "KRAS-mutant CRC",
+                    "predicate": "is susceptible to",
+                    "object": "ferroptosis induction"
+                },
+                {
+                    "subject": "cellular metabolism",
+                    "predicate": "relates",
+                    "object": "cellular"
+                }
+            ],
+            "entities": {
+                "cellular": "CELL",
+                "KRAS-mutant CRC": "CANCER"
+            }
+        },
+        "Kkkd_k3p": {
+            "name": "DNA methylation biomarkers have shown significant potential for non-invasive screening and diagnosis of colorectal cancer (CRC), with several markers approved for clinical use.",
+            "doc_id": "10.25122/jml-2023-0269",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "DNA methylation biomarkers",
+                    "predicate": "have shown",
+                    "object": "significant potential"
+                },
+                {
+                    "subject": "significant potential",
+                    "predicate": "is for",
+                    "object": "non-invasive screening and diagnosis of colorectal cancer (CRC)"
+                },
+                {
+                    "subject": "diagnosis",
+                    "predicate": "of",
+                    "object": "colorectal cancer (CRC)"
+                },
+                {
+                    "subject": "several markers",
+                    "predicate": "approved for",
+                    "object": "clinical use"
+                },
+                {
+                    "subject": "colorectal cancer (CRC)",
+                    "predicate": "relates",
+                    "object": "non-invasive screening and diagnosis of colorectal cancer (CRC)"
+                },
+                {
+                    "subject": "colorectal cancer (CRC)",
+                    "predicate": "relates",
+                    "object": "colorectal cancer"
+                },
+                {
+                    "subject": "colorectal cancer (CRC)",
+                    "predicate": "relates",
+                    "object": "CRC"
+                },
+                {
+                    "subject": "non-invasive screening and diagnosis of colorectal cancer (CRC)",
+                    "predicate": "relates",
+                    "object": "colorectal cancer"
+                },
+                {
+                    "subject": "non-invasive screening and diagnosis of colorectal cancer (CRC)",
+                    "predicate": "relates",
+                    "object": "CRC"
+                },
+                {
+                    "subject": "colorectal cancer",
+                    "predicate": "relates",
+                    "object": "CRC"
+                }
+            ],
+            "entities": {
+                "DNA": "CELLULAR_COMPONENT",
+                "colorectal cancer": "CANCER",
+                "CRC": "CANCER"
+            }
+        },
+        "wY9DPR8b": {
+            "name": "miR-21 levels in serum were found to increase significantly three years before CRC diagnosis, suggesting its utility as an early diagnostic marker.",
+            "doc_id": "10.25122/jml-2023-0269",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "miR-21 levels in serum",
+                    "predicate": "increase significantly",
+                    "object": "three years before CRC diagnosis"
+                }
+            ],
+            "entities": {
+                "serum": "ORGANISM_SUBSTANCE",
+                "CRC": "CANCER"
+            }
+        },
+        "PygRhgoq": {
+            "name": "The fecal immunochemical test (FIT) has improved accuracy over the years but remains limited to detecting CRC originating from bleeding lesions, missing non-bleeding tumors.",
+            "doc_id": "10.25122/jml-2023-0269",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "The fecal immunochemical test (FIT)",
+                    "predicate": "has improved",
+                    "object": "accuracy"
+                },
+                {
+                    "subject": "The fecal immunochemical test (FIT)",
+                    "predicate": "remains limited to detecting",
+                    "object": "CRC originating from bleeding lesions"
+                },
+                {
+                    "subject": "The fecal immunochemical test (FIT)",
+                    "predicate": "missing",
+                    "object": "non-bleeding tumors"
+                }
+            ],
+            "entities": {
+                "FIT": "CANCER",
+                "CRC": "CANCER",
+                "non-bleeding tumors": "CANCER"
+            }
+        },
+        "Te316zVq": {
+            "name": "Combining genetic and epigenetic biomarkers with existing methods like FIT can enhance sensitivity and specificity for CRC screening.",
+            "doc_id": "10.25122/jml-2023-0269",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "Combining genetic and epigenetic biomarkers with existing methods like FIT",
+                    "predicate": "enhance",
+                    "object": "sensitivity and specificity for CRC screening"
+                }
+            ],
+            "entities": {
+                "CRC": "CANCER"
+            }
+        },
+        "8-5D0bTh": {
+            "name": "Colorectal cancer heterogeneity poses a major challenge in identifying a single universal biomarker, necessitating the use of multi-marker panels or combinations.",
+            "doc_id": "10.25122/jml-2023-0269",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "Colorectal cancer heterogeneity",
+                    "predicate": "poses",
+                    "object": "a major challenge"
+                },
+                {
+                    "subject": "Colorectal cancer heterogeneity",
+                    "predicate": "poses",
+                    "object": "a major challenge in identifying a single universal biomarker"
+                },
+                {
+                    "subject": "Colorectal cancer heterogeneity",
+                    "predicate": "relates",
+                    "object": "Colorectal cancer"
+                },
+                {
+                    "subject": "a major challenge",
+                    "predicate": "relates",
+                    "object": "a major challenge in identifying a single universal biomarker"
+                }
+            ],
+            "entities": {
+                "Colorectal cancer": "CANCER"
+            }
+        },
+        "E0F6b1n8": {
+            "name": "p53 autoantibodies consistently performed well as a marker for early diagnosis of colorectal cancer, especially in combination with protein markers, warranting development as a supplement to current screening tests.",
+            "doc_id": "10.3390/cancers13174406",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "p53 autoantibodies",
+                    "predicate": "performed well as",
+                    "object": "marker for early diagnosis of colorectal cancer"
+                }
+            ],
+            "entities": {
+                "p53": "GENE_OR_GENE_PRODUCT",
+                "colorectal cancer": "CANCER"
+            }
+        },
+        "I_I3yJ_7": {
+            "name": "panels of biomarkers performed better than single markers in detecting colorectal cancer, suggesting the potential value of multi-marker approaches.",
+            "doc_id": "10.3390/cancers13174406",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "panels of biomarkers",
+                    "predicate": "performed better than",
+                    "object": "single markers"
+                },
+                {
+                    "subject": "panels of biomarkers",
+                    "predicate": "detecting",
+                    "object": "colorectal cancer"
+                },
+                {
+                    "subject": "panels of biomarkers",
+                    "predicate": "suggesting",
+                    "object": "multi-marker approaches"
+                }
+            ],
+            "entities": {
+                "colorectal cancer": "CANCER"
+            }
+        },
+        "ZcpWkMDw": {
+            "name": "protein biomarkers in plasma or serum, even when combined into multi-marker panels, did not achieve sufficient discriminatory ability to be clinically useful as an alternative to FIT in general colorectal cancer screening.",
+            "doc_id": "10.3390/cancers13174406",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "protein biomarkers in plasma or serum",
+                    "predicate": "did not achieve",
+                    "object": "sufficient discriminatory ability"
+                }
+            ],
+            "entities": {
+                "plasma": "ORGANISM_SUBSTANCE",
+                "serum": "ORGANISM_SUBSTANCE",
+                "FIT": "SIMPLE_CHEMICAL",
+                "colorectal cancer": "CANCER"
+            }
+        },
+        "xCcYzfZI": {
+            "name": "SEPT9 testing would send 70% of screenees to colonoscopy within 5 years, raising concerns about cost-effectiveness compared to current fecal testing alternatives.",
+            "doc_id": "10.3390/cancers13174406",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "SEPT9 testing",
+                    "predicate": "would send",
+                    "object": "70% of screenees to colonoscopy within 5 years"
+                },
+                {
+                    "subject": "SEPT9 testing",
+                    "predicate": "raising concerns about",
+                    "object": "cost-effectiveness compared to current fecal testing alternatives"
+                },
+                {
+                    "subject": "SEPT9 testing",
+                    "predicate": "relates",
+                    "object": "SEPT9"
+                }
+            ],
+            "entities": {
+                "SEPT9": "GENE_OR_GENE_PRODUCT"
+            }
+        },
+        "sv_xCCx_": {
+            "name": "metabolites are often sensitive to fasting status, which could be a disadvantage if samples are to be used in biomarker panels for risk stratification.",
+            "doc_id": "10.3390/cancers13174406",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "metabolites",
+                    "predicate": "are sensitive to",
+                    "object": "fasting status"
+                },
+                {
+                    "subject": "biomarker panels",
+                    "predicate": "are used for",
+                    "object": "risk stratification"
+                }
+            ],
+            "entities": {
+                "samples": "CANCER"
+            }
+        },
+        "LU60Rs2v": {
+            "name": "Plasma hsa_circ_0006282 levels were significantly higher in colorectal cancer (CRC) patients compared to healthy controls and colitis patients, with a strong positive correlation between tissue and plasma expression levels.",
+            "doc_id": "10.1002/jcla.24147",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "Plasma hsa_circ_0006282 levels",
+                    "predicate": "were significantly higher compared to",
+                    "object": "colorectal cancer (CRC) patients"
+                },
+                {
+                    "subject": "Plasma hsa_circ_0006282 levels",
+                    "predicate": "were significantly higher compared to",
+                    "object": "healthy controls"
+                },
+                {
+                    "subject": "Plasma hsa_circ_0006282 levels",
+                    "predicate": "were significantly higher compared to",
+                    "object": "colitis patients"
+                },
+                {
+                    "subject": "tissue and plasma expression levels",
+                    "predicate": "showed a strong positive correlation between",
+                    "object": "tissue and plasma expression levels"
+                },
+                {
+                    "subject": "colorectal cancer",
+                    "predicate": "relates",
+                    "object": "CRC"
+                },
+                {
+                    "subject": "colorectal cancer",
+                    "predicate": "relates",
+                    "object": "colorectal cancer (CRC) patients"
+                },
+                {
+                    "subject": "CRC",
+                    "predicate": "relates",
+                    "object": "colorectal cancer (CRC) patients"
+                }
+            ],
+            "entities": {
+                "Plasma": "PATHOLOGICAL_FORMATION",
+                "colorectal cancer": "CANCER",
+                "CRC": "CANCER",
+                "patients": "ORGANISM",
+                "tissue": "TISSUE",
+                "plasma": "ORGANISM_SUBSTANCE"
+            }
+        },
+        "ZGKXk4Uj": {
+            "name": "The area under the curve (AUC) for hsa_circ_0006282 in distinguishing CRC patients from healthy controls was 0.812 (95% CI: 0.625-0.801, p < 0.0001), demonstrating its high diagnostic efficiency.",
+            "doc_id": "10.1002/jcla.24147",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "The area under the curve (AUC) for hsa_circ_0006282",
+                    "predicate": "was",
+                    "object": "0.812 (95% CI: 0.625-0.801, p < 0.0001)"
+                },
+                {
+                    "subject": "hsa_circ_0006282",
+                    "predicate": "demonstrated",
+                    "object": "high diagnostic efficiency"
+                }
+            ],
+            "entities": {
+                "CRC patients": "CANCER"
+            }
+        },
+        "g1Yfg8M4": {
+            "name": "Combining hsa_circ_0006282 with CEA and CA199 improved the diagnostic sensitivity to 78.8%, compared to 48.3% for CEA alone and 29% for CA199 alone.",
+            "doc_id": "10.1002/jcla.24147",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "Combining hsa_circ_0006282 with CEA and CA199",
+                    "predicate": "improved",
+                    "object": "the diagnostic sensitivity to 78.8%"
+                },
+                {
+                    "subject": "CEA alone",
+                    "predicate": "improved",
+                    "object": "diagnostic sensitivity to 48.3%"
+                },
+                {
+                    "subject": "CA199 alone",
+                    "predicate": "improved",
+                    "object": "diagnostic sensitivity to 29%"
+                },
+                {
+                    "subject": "CEA alone",
+                    "predicate": "relates",
+                    "object": "CEA"
+                },
+                {
+                    "subject": "CEA alone",
+                    "predicate": "relates",
+                    "object": "CA199 alone"
+                },
+                {
+                    "subject": "diagnostic sensitivity to 29%",
+                    "predicate": "relates",
+                    "object": "the diagnostic sensitivity to 78.8%"
+                },
+                {
+                    "subject": "diagnostic sensitivity to 29%",
+                    "predicate": "relates",
+                    "object": "diagnostic sensitivity to 48.3%"
+                },
+                {
+                    "subject": "CA199",
+                    "predicate": "relates",
+                    "object": "CEA"
+                },
+                {
+                    "subject": "CA199",
+                    "predicate": "relates",
+                    "object": "CA199 alone"
+                },
+                {
+                    "subject": "the diagnostic sensitivity to 78.8%",
+                    "predicate": "relates",
+                    "object": "diagnostic sensitivity to 48.3%"
+                }
+            ],
+            "entities": {
+                "CEA": "GENE_OR_GENE_PRODUCT",
+                "CA199": "SIMPLE_CHEMICAL"
+            }
+        },
+        "3vBCRynL": {
+            "name": "High expression levels of plasma hsa_circ_0006282 were associated with poor differentiation (p = 0.012), lymph node metastasis (p < 0.001), T stage (p < 0.0001), and TNM stage (p < 0.01) in CRC patients.",
+            "doc_id": "10.1002/jcla.24147",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "High expression levels of plasma hsa_circ_0006282",
+                    "predicate": "associated with",
+                    "object": "poor differentiation (p = 0.012)"
+                },
+                {
+                    "subject": "High expression levels of plasma hsa_circ_0006282",
+                    "predicate": "associated with",
+                    "object": "lymph node metastasis (p < 0.001)"
+                },
+                {
+                    "subject": "High expression levels of plasma hsa_circ_0006282",
+                    "predicate": "associated with",
+                    "object": "T stage (p < 0.0001)"
+                },
+                {
+                    "subject": "High expression levels of plasma hsa_circ_0006282",
+                    "predicate": "associated with",
+                    "object": "TNM stage (p < 0.01)"
+                },
+                {
+                    "subject": "T stage (p < 0.0001)",
+                    "predicate": "relates",
+                    "object": "TNM stage (p < 0.01)"
+                },
+                {
+                    "subject": "T stage (p < 0.0001)",
+                    "predicate": "relates",
+                    "object": "poor differentiation (p = 0.012)"
+                },
+                {
+                    "subject": "TNM stage (p < 0.01)",
+                    "predicate": "relates",
+                    "object": "lymph node metastasis (p < 0.001)"
+                },
+                {
+                    "subject": "TNM stage (p < 0.01)",
+                    "predicate": "relates",
+                    "object": "poor differentiation (p = 0.012)"
+                }
+            ],
+            "entities": {
+                "plasma": "ORGANISM_SUBSTANCE",
+                "lymph node": "MULTI_TISSUE_STRUCTURE",
+                "CRC patients": "CANCER"
+            }
+        },
+        "gQSwuSch": {
+            "name": "Plasma hsa_circ_0006282 levels decreased to normal immediately after surgery in CRC patients but increased upon recurrence, indicating its potential for dynamic monitoring of disease progression.",
+            "doc_id": "10.1002/jcla.24147",
+            "category": "",
+            "llm_id": "deepseek-r1:32b-qwen-distill-fp16/c4Xuv",
+            "details": [
+                {
+                    "subject": "Plasma hsa_circ_0006282 levels",
+                    "predicate": "decreased to normal immediately after surgery",
+                    "object": "in CRC patients"
+                },
+                {
+                    "subject": "Plasma hsa_circ_0006282 levels",
+                    "predicate": "increased upon recurrence",
+                    "object": "in CRC patients"
+                },
+                {
+                    "subject": "Plasma hsa_circ_0006282 levels",
+                    "predicate": "indicates",
+                    "object": "its potential for dynamic monitoring of disease progression"
+                },
+                {
+                    "subject": "CRC patients",
+                    "predicate": "relates",
+                    "object": "in CRC patients"
+                }
+            ],
+            "entities": {
+                "Plasma": "PATHOLOGICAL_FORMATION",
+                "CRC patients": "CANCER",
+                "disease": "CANCER"
+            }
+        }
+    },
+    "documents": {
+        "10.48047/nq.2023.21.6.NQ23120": {
+            "doi": "10.48047/nq.2023.21.6.NQ23120",
+            "short_citation": "(Muheyuddeen;2019)",
+            "long_citation": "Muheyuddeen, et al., Biomarkers in Colorectal Cancer: Recent Investigation and Future Prospective, , 2019",
+            "category": ""
+        },
+        "10.1007/5584_2020_506": {
+            "doi": "10.1007/5584_2020_506",
+            "short_citation": "(Szyma\u0144ska-Chabowska;2005)",
+            "long_citation": "Szyma\u0144ska-Chabowska, et al., Chitinase 3-Like 1, Nestin, and Testin Proteins as Novel Biomarkers of Potential Clinical Use in Colorectal Cancer: A Review, , 2005",
+            "category": ""
+        },
+        "10.1080/1354750X.2023.2247185": {
+            "doi": "10.1080/1354750X.2023.2247185",
+            "short_citation": "(Maqbool;2023-09-12)",
+            "long_citation": "Maqbool, et al., Predictive biomarkers for colorectal cancer: a state-of-the-art systematic review, , 2023-09-12",
+            "category": ""
+        },
+        "10.1002/cam4.7117": {
+            "doi": "10.1002/cam4.7117",
+            "short_citation": "(Wu;2023)",
+            "long_citation": "Wu, et al., Exosomal miR-1470 is a diagnostic biomarker and promotes cell proliferation and metastasis in colorectal cancer, , 2023",
+            "category": ""
+        },
+        "10.3390/cancers16162796": {
+            "doi": "10.3390/cancers16162796",
+            "short_citation": "(Ashouri;2024-08-08)",
+            "long_citation": "Ashouri, et al., Exploring Predictive and Prognostic Biomarkers in Colorectal Cancer: A Comprehensive Review, , 2024-08-08",
+            "category": ""
+        },
+        "10.25122/jml-2023-0269": {
+            "doi": "10.25122/jml-2023-0269",
+            "short_citation": "(Annisa;2019)",
+            "long_citation": "Annisa, et al., Detecting colorectal cancer using genetic and epigenetic biomarkers: screening and diagnosis, , 2019",
+            "category": ""
+        },
+        "10.3390/cancers13174406": {
+            "doi": "10.3390/cancers13174406",
+            "short_citation": "(Harlid;2021-08-31)",
+            "long_citation": "Harlid, et al., Risk-Predictive and Diagnostic Biomarkers for Colorectal Cancer; a Systematic Review of Studies Using Pre-Diagnostic Blood Samples Collected in Prospective Cohorts and Screening Settings, , 2021-08-31",
+            "category": ""
+        },
+        "10.1002/jcla.24147": {
+            "doi": "10.1002/jcla.24147",
+            "short_citation": "(Mohammadi;2014)",
+            "long_citation": "Mohammadi, et al., Evaluation of plasma circ_0006282 as a novel diagnostic biomarker in colorectal cancer, , 2014",
+            "category": ""
+        }
+    },
+    "lang_info": {
+        "deepseek-r1:32b-qwen-distill-fp16/c4Xuv": {
+            "llm_tag": "deepseek-r1:32b-qwen-distill-fp16",
+            "ner_tag": "en_ner_bionlp13cg_md",
+            "vector_distance": "en_ner_bionlp13cg_md",
+            "prompt_template": "[BEGIN ARTICLE] {article} [END ARTICLE]\n[INSTRUCTIONS]\nIn the article above find up to 5 important strong positive or negative findings that are original results.\nDo not include findings that are in introduction section referred from other sources or methods used.\nFormulate the finding to be self explainable and independent statement.\nFormulate the finding with enhanced sentence with particular explanation if needed using vocabulary understandable \nfor domain expert used in the article. Be as specific and include details as possible.\nDo not include authors or their abbreviation that performed the study usually expressed by terms 'analyzed by ...', 'organized by ...'.\nDo not include generic knowledge that something was studied or analysed.\nDo not include findings that are just cited from another source. \nDo not include general findings without details.\nInstead of 'the study revealed that (some content)', just output '(some content)'.\nInstead of 'some' or 'certain' use specific numbers, specific objects or subjects from the article. If not such numbers or details are in the article, do not include sich finding.\nReturn the list in a JSON array of strings in the format: '[\"finding1\",\"finding2\",\"finding3\"]'\nDo not add any other structure in JSON, just array of strings. Do not include any other explanation or notes, just array of strings in JSON.\n",
+            "prompt_entities_template": "\nFollowing is the Entities and Sentence. In the following sentence generate knowledge graph tripplets\nwith the following entities in the following JSON format:\n'[{\"subject\":\"subject 1\",\"predicate\":\"predicate 1\",\"object\":\"object 1\" }]'. \nOnly if really necessary, add other entities from the sentence, but otherwise use just the Entities. \nOutput only JSON and do not include any other explanation, notes or suggestion. \nThe 'predicate' in tripplet should contain only verb itself and at most a preposition. \nThe 'subject' and 'object' in tripplet can contain substantive, adjective, number, adverbs and other description related to noun or number.\n\nEntities: {entities}\nSentence: {finding}\n"
+        }
+    }
+}

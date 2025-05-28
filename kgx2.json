@@ -1,0 +1,124 @@
+{
+    "knowledge": {
+        "eCEZWI8o": {
+            "name": "The TNM stage and grade of the tumor, as well as the presence of carcinoma in situ, are associated with an increased risk of recurrence after BCG treatment, with patients having a 90% probability of successful treatment and 75% chance of recurrence.",
+            "doc_id": "10.1111/bju.12844",
+            "llm_id": "llama3.3:70b-instruct-q8_0/TfQ4z",
+            "details": [
+                {
+                    "subject": "The TNM stage",
+                    "predicate": "is associated with",
+                    "object": "increased risk of recurrence"
+                },
+                {
+                    "subject": "grade of the tumor",
+                    "predicate": "is associated with",
+                    "object": "increased risk of recurrence"
+                },
+                {
+                    "subject": "presence of carcinoma in situ",
+                    "predicate": "is associated with",
+                    "object": "increased risk of recurrence"
+                }
+            ],
+            "entities": {
+                "tumor": "CANCER",
+                "carcinoma": "CANCER",
+                "patients": "ORGANISM"
+            }
+        },
+        "8GxZaMTf": {
+            "name": "The CCR5-D32 genotype is not associated with the risk of recurrence after BCG treatment, whereas the TNF-\u03b1 -308G/A polymorphism is associated with an increased risk of recurrence.",
+            "doc_id": "10.1111/bju.12844",
+            "llm_id": "llama3.3:70b-instruct-q8_0/TfQ4z",
+            "details": [
+                {
+                    "subject": "CCR5-D32 genotype",
+                    "predicate": "is associated with",
+                    "object": "no risk of recurrence"
+                },
+                {
+                    "subject": "TNF-\u03b1 -308G/A polymorphism",
+                    "predicate": "is associated with",
+                    "object": "increased risk of recurrence"
+                },
+                {
+                    "subject": "TNF-\u03b1 -308G/A polymorphism",
+                    "predicate": "relates",
+                    "object": "CCR5-D32 genotype"
+                },
+                {
+                    "subject": "TNF-\u03b1 -308G/A polymorphism",
+                    "predicate": "relates",
+                    "object": "CCR5-D32"
+                },
+                {
+                    "subject": "CCR5-D32 genotype",
+                    "predicate": "relates",
+                    "object": "CCR5-D32"
+                }
+            ],
+            "entities": {
+                "CCR5-D32": "GENE_OR_GENE_PRODUCT",
+                "TNF-\u03b1": "GENE_OR_GENE_PRODUCT"
+            }
+        },
+        "roixGOgd": {
+            "name": "Patients carrying the IL-1B-511T allele have a lower risk of recurrence after BCG treatment compared to those carrying the C allele.",
+            "doc_id": "10.1111/bju.12844",
+            "llm_id": "llama3.3:70b-instruct-q8_0/TfQ4z",
+            "details": [
+                {
+                    "subject": "Patients",
+                    "predicate": "carry",
+                    "object": "IL-1B-511T allele"
+                },
+                {
+                    "subject": "Patients",
+                    "predicate": "have",
+                    "object": "lower risk of recurrence"
+                },
+                {
+                    "subject": "IL-1B-511T allele",
+                    "predicate": "associated with",
+                    "object": "lower risk of recurrence"
+                },
+                {
+                    "subject": "BCG treatment",
+                    "predicate": "given to",
+                    "object": "Patients"
+                },
+                {
+                    "subject": "C allele",
+                    "predicate": "carried by",
+                    "object": "Patients"
+                },
+                {
+                    "subject": "IL-1B-511T allele",
+                    "predicate": "compared to",
+                    "object": "C allele"
+                }
+            ],
+            "entities": {
+                "Patients": "ORGANISM",
+                "C": "GENE_OR_GENE_PRODUCT"
+            }
+        }
+    },
+    "documents": {
+        "10.1111/bju.12844": {
+            "doi": "10.1111/bju.12844",
+            "short_citation": "(Lima;2010-12-15)",
+            "long_citation": "Lima, et al., The role of functional polymorphisms in immune response genes as biomarkers of BCG Immunotherapy outcome in bladder cancer: Establishment of a predictive profile in a Southern Europe population 1, , 2010-12-15"
+        }
+    },
+    "lang_info": {
+        "llama3.3:70b-instruct-q8_0/TfQ4z": {
+            "llm_tag": "llama3.3:70b-instruct-q8_0",
+            "ner_tag": "en_ner_bionlp13cg_md",
+            "vector_distance": "en_ner_bionlp13cg_md",
+            "prompt_template": "[BEGIN ARTICLE] {article} [END ARTICLE]\n[INSTRUCTIONS]\nIn the article above find at most 3 important strong positive or negative findings that are original results\nconfirming or disproving some previous studies about a biomarker and it's role in some disease risk, diagnosis, prognosis or treatment. \nDo include as much details as possible from the article. \nDo not include authors or their abbreviation that performed the study usually expressed by terms 'analyzed by ...', 'organized by ...'.\nInstead of 'the study revealed that (some content)', just output '(some content)'.\nDo not include findings that are just cited from another source. Do not include general findings without details.\nThe finding should be about relationship between biomarker and disease (risk, diagnosis, prognosis).\nList the findings in detailed sentences using vocabulary understandable for domain expert used in the article. Be as specific as possible, \ninstead of 'some' or 'certain' use numbers, specific objects or subjects from the article. \nReturn the list in a JSON array\nDo not include any other explanation or notes, just JSON array.\n",
+            "prompt_entities_template": "\nFollowing is the Entities and Sentence. In the following sentence generate knowledge graph tripplets with the following entities in the JSON format. \nOnly if really necessary, add other entities from the sentence, but otherwise use just the Entities. \nOutput only JSON and do not include any other explanation, notes or suggestion.\n\nEntities: {entities}\nSentence: {finding}\n"
+        }
+    }
+}
