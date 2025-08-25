@@ -1,0 +1,2260 @@
+{
+    "knowledge": {
+        "DiFGSFeT": {
+            "name": "The mask quality rating is based on three criteria: whether the mask corresponds to an actual object, whether it has a good boundary, and whether it corresponds to the provided point or box.",
+            "doc_id": "(Kirillov;2023-04-05)",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The mask quality rating",
+                    "predicate": "is based on",
+                    "object": "three criteria"
+                },
+                {
+                    "subject": "the mask",
+                    "predicate": "corresponds to",
+                    "object": "an actual object"
+                },
+                {
+                    "subject": "the mask",
+                    "predicate": "has",
+                    "object": "a good boundary"
+                },
+                {
+                    "subject": "the mask",
+                    "predicate": "corresponds to",
+                    "object": "the provided point or box"
+                },
+                {
+                    "subject": "three criteria",
+                    "predicate": "include",
+                    "object": "whether the mask corresponds to an actual object"
+                },
+                {
+                    "subject": "three criteria",
+                    "predicate": "include",
+                    "object": "whether the mask has a good boundary"
+                },
+                {
+                    "subject": "three criteria",
+                    "predicate": "include",
+                    "object": "whether the mask corresponds to the provided point or box"
+                },
+                {
+                    "subject": "whether the mask corresponds to the provided point or box",
+                    "predicate": "relates",
+                    "object": "the provided point or box"
+                }
+            ],
+            "entities": {}
+        },
+        "41m0g-bZ": {
+            "name": "The model's environmental impact is equivalent to approximately 7,000 miles driven by the average gasoline-powered passenger vehicle in the US.",
+            "doc_id": "(Kirillov;2023-04-05)",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The model's environmental impact",
+                    "predicate": "is equivalent to",
+                    "object": "approximately 7,000 miles"
+                },
+                {
+                    "subject": "approximately 7,000 miles",
+                    "predicate": "are driven by",
+                    "object": "the average gasoline-powered passenger vehicle"
+                },
+                {
+                    "subject": "the average gasoline-powered passenger vehicle",
+                    "predicate": "drives in",
+                    "object": "the US"
+                }
+            ],
+            "entities": {}
+        },
+        "EwdWcE5f": {
+            "name": "The mask-only image view reveals errors such as small holes or separated incorrect pixels, which are not visible in the thumbnail.",
+            "doc_id": "(Kirillov;2023-04-05)",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The mask-only image view",
+                    "predicate": "reveals",
+                    "object": "errors"
+                },
+                {
+                    "subject": "errors",
+                    "predicate": "are",
+                    "object": "small holes or separated incorrect pixels"
+                },
+                {
+                    "subject": "small holes or separated incorrect pixels",
+                    "predicate": "are not visible in",
+                    "object": "the thumbnail"
+                },
+                {
+                    "subject": "The mask-only image view",
+                    "predicate": "reveals",
+                    "object": "small holes or separated incorrect pixels"
+                },
+                {
+                    "subject": "small holes or separated incorrect pixels",
+                    "predicate": "are not",
+                    "object": "visible in the thumbnail"
+                }
+            ],
+            "entities": {}
+        },
+        "VmG9_Nqw": {
+            "name": "Pixelation of a small mask is not considered an error as long as the mask still matches the edges of the object.",
+            "doc_id": "(Kirillov;2023-04-05)",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "Pixelation of a small mask",
+                    "predicate": "is considered",
+                    "object": "not an error"
+                },
+                {
+                    "subject": "the mask",
+                    "predicate": "still matches",
+                    "object": "the edges of the object"
+                },
+                {
+                    "subject": "the edges of the object",
+                    "predicate": "are matched by",
+                    "object": "the mask"
+                },
+                {
+                    "subject": "Pixelation of a small mask",
+                    "predicate": "occurs in",
+                    "object": "the mask"
+                },
+                {
+                    "subject": "an error",
+                    "predicate": "is not considered",
+                    "object": "Pixelation of a small mask"
+                }
+            ],
+            "entities": {}
+        },
+        "XN4SF06k": {
+            "name": "The model's fairness evaluation shows potential biases and fairness concerns, requiring users to run their own fairness evaluation for specific use cases.",
+            "doc_id": "(Kirillov;2023-04-05)",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The model's fairness evaluation",
+                    "predicate": "shows",
+                    "object": "potential biases and fairness concerns"
+                },
+                {
+                    "subject": "users",
+                    "predicate": "run",
+                    "object": "their own fairness evaluation"
+                },
+                {
+                    "subject": "fairness evaluation",
+                    "predicate": "is for",
+                    "object": "specific use cases"
+                },
+                {
+                    "subject": "The model's fairness evaluation",
+                    "predicate": "requires",
+                    "object": "users to run their own fairness evaluation"
+                }
+            ],
+            "entities": {}
+        },
+        "w6fkJPye": {
+            "name": "EchoAI achieves a mean absolute error of 4.34 and a mean absolute percentage error of 9.40% in estimating the ejection fraction",
+            "doc_id": "10.1161/CIR.0000000000000570",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "EchoAI",
+                    "predicate": "achieves",
+                    "object": "a mean absolute error of 4.34"
+                },
+                {
+                    "subject": "EchoAI",
+                    "predicate": "achieves",
+                    "object": "a mean absolute percentage error of 9.40%"
+                },
+                {
+                    "subject": "EchoAI",
+                    "predicate": "estimates",
+                    "object": "the ejection fraction"
+                },
+                {
+                    "subject": "a mean absolute error of 4.34",
+                    "predicate": "is achieved by",
+                    "object": "EchoAI"
+                },
+                {
+                    "subject": "a mean absolute percentage error of 9.40%",
+                    "predicate": "is achieved by",
+                    "object": "EchoAI"
+                },
+                {
+                    "subject": "a mean absolute error of 4.34",
+                    "predicate": "relates",
+                    "object": "a mean absolute percentage error of 9.40%"
+                }
+            ],
+            "entities": {}
+        },
+        "8RCqqxKc": {
+            "name": "The model demonstrates superior performance, requiring minimal labelled data for fine-tuning, with a root mean squared error of 5.76 and an R2 value of 0.78",
+            "doc_id": "10.1161/CIR.0000000000000570",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The model",
+                    "predicate": "demonstrates",
+                    "object": "superior performance"
+                },
+                {
+                    "subject": "The model",
+                    "predicate": "requires",
+                    "object": "minimal labelled data"
+                },
+                {
+                    "subject": "Minimal labelled data",
+                    "predicate": "is used for",
+                    "object": "fine-tuning"
+                },
+                {
+                    "subject": "The model",
+                    "predicate": "has",
+                    "object": "a root mean squared error of 5.76"
+                },
+                {
+                    "subject": "The model",
+                    "predicate": "has",
+                    "object": "an R2 value of 0.78"
+                }
+            ],
+            "entities": {}
+        },
+        "xh5VGBJZ": {
+            "name": "EchoAI is trained on a diverse dataset comprising 1.5 million echocardiogram videos, encompassing both adult and pediatric patients",
+            "doc_id": "10.1161/CIR.0000000000000570",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "EchoAI",
+                    "predicate": "is trained on",
+                    "object": "a diverse dataset"
+                },
+                {
+                    "subject": "a diverse dataset",
+                    "predicate": "comprising",
+                    "object": "1.5 million echocardiogram videos"
+                },
+                {
+                    "subject": "1.5 million echocardiogram videos",
+                    "predicate": "encompassing",
+                    "object": "both adult and pediatric patients"
+                },
+                {
+                    "subject": "EchoAI",
+                    "predicate": "is trained on",
+                    "object": "1.5 million echocardiogram videos"
+                },
+                {
+                    "subject": "a diverse dataset",
+                    "predicate": "encompassing",
+                    "object": "adult patients"
+                },
+                {
+                    "subject": "a diverse dataset",
+                    "predicate": "encompassing",
+                    "object": "pediatric patients"
+                }
+            ],
+            "entities": {
+                "patients": "ORGANISM"
+            }
+        },
+        "m_7whLkc": {
+            "name": "The masked autoencoding technique enables EchoAI to reconstruct various types and views of echocardiograms with only 10% of the video pixels exposed during training",
+            "doc_id": "10.1161/CIR.0000000000000570",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The masked autoencoding technique",
+                    "predicate": "enables",
+                    "object": "EchoAI"
+                },
+                {
+                    "subject": "EchoAI",
+                    "predicate": "reconstruct",
+                    "object": "various types and views of echocardiograms"
+                },
+                {
+                    "subject": "The masked autoencoding technique",
+                    "predicate": "exposes",
+                    "object": "10% of the video pixels"
+                },
+                {
+                    "subject": "10% of the video pixels",
+                    "predicate": "are exposed during",
+                    "object": "training"
+                },
+                {
+                    "subject": "EchoAI",
+                    "predicate": "reconstruct with",
+                    "object": "only 10% of the video pixels"
+                },
+                {
+                    "subject": "only 10% of the video pixels",
+                    "predicate": "relates",
+                    "object": "10% of the video pixels"
+                }
+            ],
+            "entities": {}
+        },
+        "dA2N8RIC": {
+            "name": "EchoAI's performance in estimating the ejection fraction is comparable to human accuracy, with an inter-user variability of 13.5%",
+            "doc_id": "10.1161/CIR.0000000000000570",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "EchoAI's performance",
+                    "predicate": "is",
+                    "object": "comparable to human accuracy"
+                },
+                {
+                    "subject": "EchoAI's performance in estimating the ejection fraction",
+                    "predicate": "has",
+                    "object": "an inter-user variability of 13.5%"
+                },
+                {
+                    "subject": "human accuracy",
+                    "predicate": "is",
+                    "object": "comparable to EchoAI's performance"
+                },
+                {
+                    "subject": "inter-user variability",
+                    "predicate": "is",
+                    "object": "13.5%"
+                }
+            ],
+            "entities": {
+                "human": "ORGANISM"
+            }
+        },
+        "DKki5yas": {
+            "name": "RudolfV foundation model achieves top-k accuracy of 91.4% for k = 1 and 97.3% for k = 10 in reference case search task",
+            "doc_id": "10.1146/annurev-pathmechdis-051222-113147",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "RudolfV foundation model",
+                    "predicate": "achieves",
+                    "object": "top-k accuracy of 91.4%"
+                },
+                {
+                    "subject": "RudolfV foundation model",
+                    "predicate": "achieves",
+                    "object": "top-k accuracy of 97.3%"
+                },
+                {
+                    "subject": "RudolfV foundation model",
+                    "predicate": "performs in",
+                    "object": "reference case search task"
+                },
+                {
+                    "subject": "top-k accuracy of 91.4%",
+                    "predicate": "is for",
+                    "object": "k = 1"
+                },
+                {
+                    "subject": "top-k accuracy of 97.3%",
+                    "predicate": "is for",
+                    "object": "k = 10"
+                },
+                {
+                    "subject": "k = 1",
+                    "predicate": "relates",
+                    "object": "k = 10"
+                },
+                {
+                    "subject": "top-k accuracy of 91.4%",
+                    "predicate": "relates",
+                    "object": "top-k accuracy of 97.3%"
+                }
+            ],
+            "entities": {
+                "top-k": "CANCER"
+            }
+        },
+        "o7NSZSCX": {
+            "name": "The model demonstrates robustness across different scanners and stains, with consistent representation of tissue features",
+            "doc_id": "10.1146/annurev-pathmechdis-051222-113147",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The model",
+                    "predicate": "demonstrates",
+                    "object": "robustness"
+                },
+                {
+                    "subject": "The model",
+                    "predicate": "demonstrates robustness across",
+                    "object": "different scanners and stains"
+                },
+                {
+                    "subject": "The representation of tissue features",
+                    "predicate": "is",
+                    "object": "consistent"
+                },
+                {
+                    "subject": "The model",
+                    "predicate": "has",
+                    "object": "consistent representation of tissue features"
+                },
+                {
+                    "subject": "consistent representation of tissue features",
+                    "predicate": "relates",
+                    "object": "The representation of tissue features"
+                }
+            ],
+            "entities": {
+                "tissue": "TISSUE"
+            }
+        },
+        "T2feogJF": {
+            "name": "Linear probing on PCAM dataset results in an area under the receiver operating characteristic curve (AUC-ROC) of 0.977",
+            "doc_id": "10.1146/annurev-pathmechdis-051222-113147",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "Linear probing on PCAM dataset",
+                    "predicate": "results in",
+                    "object": "an area under the receiver operating characteristic curve (AUC-ROC) of 0.977"
+                },
+                {
+                    "subject": "Linear probing",
+                    "predicate": "is performed on",
+                    "object": "PCAM dataset"
+                },
+                {
+                    "subject": "PCAM dataset",
+                    "predicate": "has an AUC-ROC of",
+                    "object": "0.977"
+                },
+                {
+                    "subject": "The area under the receiver operating characteristic curve (AUC-ROC)",
+                    "predicate": "is",
+                    "object": "0.977"
+                },
+                {
+                    "subject": "an area under the receiver operating characteristic curve (AUC-ROC) of 0.977",
+                    "predicate": "relates",
+                    "object": "The area under the receiver operating characteristic curve (AUC-ROC)"
+                }
+            ],
+            "entities": {
+                "PCAM": "CELL"
+            }
+        },
+        "UNvmsXqU": {
+            "name": "MHIST dataset classification yields an accuracy of 83.1% and F1-score of 84.2%",
+            "doc_id": "10.1146/annurev-pathmechdis-051222-113147",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "MHIST dataset classification",
+                    "predicate": "yields",
+                    "object": "an accuracy of 83.1%"
+                },
+                {
+                    "subject": "MHIST dataset classification",
+                    "predicate": "yields",
+                    "object": "an F1-score of 84.2%"
+                },
+                {
+                    "subject": "an F1-score of 84.2%",
+                    "predicate": "relates",
+                    "object": "an accuracy of 83.1%"
+                }
+            ],
+            "entities": {}
+        },
+        "mD3L1CT7": {
+            "name": "CRC-100K dataset classification achieves a mean Intersection over Union (mIoU) score of 74.5% across nine tissue classes",
+            "doc_id": "10.1146/annurev-pathmechdis-051222-113147",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "CRC-100K dataset classification",
+                    "predicate": "achieves",
+                    "object": "a mean Intersection over Union (mIoU) score of 74.5%"
+                },
+                {
+                    "subject": "CRC-100K dataset classification",
+                    "predicate": "achieves a mean Intersection over Union (mIoU) score across",
+                    "object": "nine tissue classes"
+                },
+                {
+                    "subject": "a mean Intersection over Union (mIoU) score of 74.5%",
+                    "predicate": "is achieved by",
+                    "object": "CRC-100K dataset classification"
+                },
+                {
+                    "subject": "nine tissue classes",
+                    "predicate": "are classified by",
+                    "object": "CRC-100K dataset classification"
+                }
+            ],
+            "entities": {
+                "CRC-100K": "SIMPLE_CHEMICAL",
+                "tissue": "TISSUE"
+            }
+        },
+        "p1ZnKCG9": {
+            "name": "VIS-MAE outperforms traditional supervised models in terms of performance and generalizability across diverse medical imaging tasks",
+            "doc_id": "(Liu;2021)",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "VIS-MAE",
+                    "predicate": "outperforms",
+                    "object": "traditional supervised models"
+                },
+                {
+                    "subject": "VIS-MAE",
+                    "predicate": "has",
+                    "object": "better performance"
+                },
+                {
+                    "subject": "VIS-MAE",
+                    "predicate": "has",
+                    "object": "better generalizability"
+                },
+                {
+                    "subject": "VIS-MAE",
+                    "predicate": "performs well across",
+                    "object": "diverse medical imaging tasks"
+                },
+                {
+                    "subject": "traditional supervised models",
+                    "predicate": "lack",
+                    "object": "generalizability across diverse medical imaging tasks"
+                }
+            ],
+            "entities": {}
+        },
+        "04_o_iaF": {
+            "name": "The model achieves superior or comparable performance to benchmark models, including nnU-Net, TransUNet, RadImageNet, ImageNet, and SimCLR, on eight medical image segmentation datasets",
+            "doc_id": "(Liu;2021)",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The model",
+                    "predicate": "achieves",
+                    "object": "superior or comparable performance"
+                },
+                {
+                    "subject": "The model",
+                    "predicate": "achieves performance to",
+                    "object": "benchmark models"
+                },
+                {
+                    "subject": "benchmark models",
+                    "predicate": "include",
+                    "object": "nnU-Net, TransUNet, RadImageNet, ImageNet, and SimCLR"
+                },
+                {
+                    "subject": "The model",
+                    "predicate": "performs on",
+                    "object": "eight medical image segmentation datasets"
+                },
+                {
+                    "subject": "superior or comparable performance",
+                    "predicate": "is achieved by",
+                    "object": "The model on eight medical image segmentation datasets"
+                },
+                {
+                    "subject": "The model on eight medical image segmentation datasets",
+                    "predicate": "relates",
+                    "object": "eight medical image segmentation datasets"
+                }
+            ],
+            "entities": {
+                "SimCLR": "GENE_OR_GENE_PRODUCT"
+            }
+        },
+        "fml2fQeK": {
+            "name": "VIS-MAE enhances label efficiency, reducing the need for extensive annotated data by achieving high performance with only 5%, 10%, 25%, 50%, and 80% of the original training data",
+            "doc_id": "(Liu;2021)",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "VIS-MAE",
+                    "predicate": "enhances",
+                    "object": "label efficiency"
+                },
+                {
+                    "subject": "VIS-MAE",
+                    "predicate": "reduces",
+                    "object": "need for extensive annotated data"
+                },
+                {
+                    "subject": "VIS-MAE",
+                    "predicate": "achieves",
+                    "object": "high performance with limited training data"
+                },
+                {
+                    "subject": "high performance",
+                    "predicate": "is achieved with",
+                    "object": "5%, 10%, 25%, 50%, and 80% of the original training data"
+                },
+                {
+                    "subject": "need for extensive annotated data",
+                    "predicate": "is reduced by",
+                    "object": "VIS-MAE"
+                },
+                {
+                    "subject": "original training data",
+                    "predicate": "is used at",
+                    "object": "5%, 10%, 25%, 50%, and 80% level"
+                },
+                {
+                    "subject": "5%, 10%, 25%, 50%, and 80% of the original training data",
+                    "predicate": "relates",
+                    "object": "5%, 10%, 25%, 50%, and 80% level"
+                }
+            ],
+            "entities": {}
+        },
+        "nwpH__2V": {
+            "name": "The model demonstrates superior performance across multiple imaging modalities, improving both segmentation and classification tasks on various datasets, including BTCV-Abdomen, ACDC, AMOS, prostate, brain segmentation, BUSI, TUCC, and ISIC datasets",
+            "doc_id": "(Liu;2021)",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The model",
+                    "predicate": "demonstrates",
+                    "object": "superior performance"
+                },
+                {
+                    "subject": "The model",
+                    "predicate": "improves",
+                    "object": "both segmentation and classification tasks"
+                },
+                {
+                    "subject": "The improvement",
+                    "predicate": "occurs",
+                    "object": "on various datasets"
+                },
+                {
+                    "subject": "The datasets",
+                    "predicate": "include",
+                    "object": "BTCV-Abdomen, ACDC, AMOS, prostate, brain segmentation, BUSI, TUCC, and ISIC datasets"
+                },
+                {
+                    "subject": "The model",
+                    "predicate": "performs",
+                    "object": "across multiple imaging modalities"
+                },
+                {
+                    "subject": "The performance",
+                    "predicate": "is superior",
+                    "object": "on various datasets"
+                },
+                {
+                    "subject": "The tasks",
+                    "predicate": "are improved",
+                    "object": "by the model"
+                },
+                {
+                    "subject": "The model",
+                    "predicate": "enhances",
+                    "object": "segmentation and classification tasks on BTCV-Abdomen, ACDC, AMOS, prostate, brain segmentation, BUSI, TUCC, and ISIC datasets"
+                },
+                {
+                    "subject": "BTCV-Abdomen, ACDC, AMOS, prostate, brain segmentation, BUSI, TUCC, and ISIC datasets",
+                    "predicate": "relates",
+                    "object": "segmentation and classification tasks on BTCV-Abdomen, ACDC, AMOS, prostate, brain segmentation, BUSI, TUCC, and ISIC datasets"
+                }
+            ],
+            "entities": {
+                "BTCV-Abdomen": "ORGANISM",
+                "ACDC": "GENE_OR_GENE_PRODUCT",
+                "prostate": "CANCER",
+                "brain": "ORGAN",
+                "BUSI": "GENE_OR_GENE_PRODUCT"
+            }
+        },
+        "b8ZwPAPq": {
+            "name": "VIS-MAE achieves high performance metrics, including Dice Similarity Coefficient (DSC), precision, recall, area under the ROC curve (ROC AUC), and Precision-Recall curve AUC (PR AUC) score, on various medical imaging tasks",
+            "doc_id": "(Liu;2021)",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "VIS-MAE",
+                    "predicate": "achieves",
+                    "object": "high performance metrics"
+                },
+                {
+                    "subject": "VIS-MAE",
+                    "predicate": "includes",
+                    "object": "Dice Similarity Coefficient (DSC)"
+                },
+                {
+                    "subject": "VIS-MAE",
+                    "predicate": "includes",
+                    "object": "precision"
+                },
+                {
+                    "subject": "VIS-MAE",
+                    "predicate": "includes",
+                    "object": "recall"
+                },
+                {
+                    "subject": "VIS-MAE",
+                    "predicate": "includes",
+                    "object": "area under the ROC curve (ROC AUC)"
+                },
+                {
+                    "subject": "VIS-MAE",
+                    "predicate": "includes",
+                    "object": "Precision-Recall curve AUC (PR AUC) score"
+                },
+                {
+                    "subject": "high performance metrics",
+                    "predicate": "are achieved on",
+                    "object": "various medical imaging tasks"
+                },
+                {
+                    "subject": "VIS-MAE",
+                    "predicate": "performs on",
+                    "object": "various medical imaging tasks"
+                }
+            ],
+            "entities": {}
+        },
+        "HM1eCUef": {
+            "name": "Using both textbooks in combination yields the highest scores, with a Precision of 0.8197, a Recall of 0.8402, and an F1 score of 0.8296",
+            "doc_id": "(Yu;2024-10-23)",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "Using both textbooks in combination",
+                    "predicate": "yields",
+                    "object": "the highest scores"
+                },
+                {
+                    "subject": "the highest scores",
+                    "predicate": "has",
+                    "object": "a Precision of 0.8197"
+                },
+                {
+                    "subject": "the highest scores",
+                    "predicate": "has",
+                    "object": "a Recall of 0.8402"
+                },
+                {
+                    "subject": "the highest scores",
+                    "predicate": "has",
+                    "object": "an F1 score of 0.8296"
+                }
+            ],
+            "entities": {}
+        },
+        "i0nLoxXF": {
+            "name": "The inclusion of multiple sources of knowledge enriches the generated descriptions",
+            "doc_id": "(Yu;2024-10-23)",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The inclusion of multiple sources of knowledge",
+                    "predicate": "enriches",
+                    "object": "the generated descriptions"
+                },
+                {
+                    "subject": "multiple sources of knowledge",
+                    "predicate": "are included in",
+                    "object": "the generated descriptions"
+                },
+                {
+                    "subject": "the generated descriptions",
+                    "predicate": "are enriched by",
+                    "object": "the inclusion of multiple sources of knowledge"
+                },
+                {
+                    "subject": "The inclusion of multiple sources of knowledge",
+                    "predicate": "relates",
+                    "object": "the inclusion of multiple sources of knowledge"
+                }
+            ],
+            "entities": {}
+        },
+        "UoRtaqCl": {
+            "name": "The absence of textbooks results in a significant drop in performance, with the lowest scores across all metrics",
+            "doc_id": "(Yu;2024-10-23)",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The absence of textbooks",
+                    "predicate": "results in",
+                    "object": "a significant drop in performance"
+                },
+                {
+                    "subject": "the significant drop in performance",
+                    "predicate": "is associated with",
+                    "object": "the lowest scores"
+                },
+                {
+                    "subject": "the lowest scores",
+                    "predicate": "are observed across",
+                    "object": "all metrics"
+                },
+                {
+                    "subject": "a significant drop in performance",
+                    "predicate": "relates",
+                    "object": "the significant drop in performance"
+                }
+            ],
+            "entities": {}
+        },
+        "fqbUQai-": {
+            "name": "Increasing the top-k value improves Recall, but decreases Precision, with the F1 score remaining relatively stable across different top-k values",
+            "doc_id": "(Yu;2024-10-23)",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "Increasing the top-k value",
+                    "predicate": "improves",
+                    "object": "Recall"
+                },
+                {
+                    "subject": "Increasing the top-k value",
+                    "predicate": "decreases",
+                    "object": "Precision"
+                },
+                {
+                    "subject": "the F1 score",
+                    "predicate": "remaining",
+                    "object": "relatively stable across different top-k values"
+                }
+            ],
+            "entities": {
+                "top-k": "CANCER"
+            }
+        },
+        "YlzUpqxt": {
+            "name": "The CQA's ability to generate relevant descriptions is robust to variations in the phrasing of the prompt, with an average mean F1 score of 0.8295 and a standard deviation of 0.0003",
+            "doc_id": "(Yu;2024-10-23)",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The CQA's ability to generate relevant descriptions",
+                    "predicate": "is",
+                    "object": "robust"
+                },
+                {
+                    "subject": "The CQA's ability to generate relevant descriptions",
+                    "predicate": "is robust to",
+                    "object": "variations in the phrasing of the prompt"
+                },
+                {
+                    "subject": "The average mean F1 score",
+                    "predicate": "is",
+                    "object": "0.8295"
+                },
+                {
+                    "subject": "The standard deviation",
+                    "predicate": "is",
+                    "object": "0.0003"
+                },
+                {
+                    "subject": "The CQA's ability to generate relevant descriptions",
+                    "predicate": "has an average mean F1 score of",
+                    "object": "0.8295"
+                },
+                {
+                    "subject": "The CQA's ability to generate relevant descriptions",
+                    "predicate": "has a standard deviation of",
+                    "object": "0.0003"
+                }
+            ],
+            "entities": {
+                "CQA": "SIMPLE_CHEMICAL"
+            }
+        },
+        "7i_KhKx2": {
+            "name": "ECG-FM's pretrained model achieved state-of-the-art performance on the PhysioNet 2021 dataset with over 99% accuracy",
+            "doc_id": "10.1088/1361-6579/ac647c",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "ECG-FM's pretrained model",
+                    "predicate": "achieved",
+                    "object": "state-of-the-art performance"
+                },
+                {
+                    "subject": "ECG-FM's pretrained model",
+                    "predicate": "achieved performance on",
+                    "object": "the PhysioNet 2021 dataset"
+                },
+                {
+                    "subject": "the PhysioNet 2021 dataset",
+                    "predicate": "has accuracy of",
+                    "object": "over 99%"
+                },
+                {
+                    "subject": "ECG-FM's pretrained model",
+                    "predicate": "performed with accuracy",
+                    "object": "over 99% on the PhysioNet 2021 dataset"
+                }
+            ],
+            "entities": {
+                "ECG-FM": "ORGANISM"
+            }
+        },
+        "7vmpTCV8": {
+            "name": "The UHN-ECG dataset was parsed using manually curated pattern matching to match over 99% of interpretations completely",
+            "doc_id": "10.1088/1361-6579/ac647c",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The UHN-ECG dataset",
+                    "predicate": "was parsed using",
+                    "object": "manually curated pattern matching"
+                },
+                {
+                    "subject": "manually curated pattern matching",
+                    "predicate": "match",
+                    "object": "over 99% of interpretations"
+                },
+                {
+                    "subject": "over 99% of interpretations",
+                    "predicate": "were matched",
+                    "object": "completely by manually curated pattern matching"
+                },
+                {
+                    "subject": "The UHN-ECG dataset",
+                    "predicate": "contain",
+                    "object": "over 99% of interpretations"
+                },
+                {
+                    "subject": "manually curated pattern matching",
+                    "predicate": "achieve",
+                    "object": "complete match"
+                },
+                {
+                    "subject": "completely by manually curated pattern matching",
+                    "predicate": "relates",
+                    "object": "manually curated pattern matching"
+                }
+            ],
+            "entities": {}
+        },
+        "okMA_yPJ": {
+            "name": "Aggregating model logits by taking the maximum, mean, or minimum for each two adjacent segments improved AUPRC by up to 10% for certain labels",
+            "doc_id": "10.1088/1361-6579/ac647c",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "Aggregating model logits",
+                    "predicate": "improved",
+                    "object": "AUPRC"
+                },
+                {
+                    "subject": "taking the maximum, mean, or minimum",
+                    "predicate": "applied to",
+                    "object": "each two adjacent segments"
+                },
+                {
+                    "subject": "aggregating model logits by taking the maximum, mean, or minimum for each two adjacent segments",
+                    "predicate": "improved",
+                    "object": "AUPRC by up to 10%"
+                },
+                {
+                    "subject": "AUPRC improvement of up to 10%",
+                    "predicate": "achieved for",
+                    "object": "certain labels"
+                },
+                {
+                    "subject": "AUPRC improvement of up to 10%",
+                    "predicate": "relates",
+                    "object": "AUPRC by up to 10%"
+                }
+            ],
+            "entities": {}
+        },
+        "dkkVgLGA": {
+            "name": "The CMSC contrastive objective enabled the model to learn robust representations of ECG signals, resulting in a significant improvement in performance on downstream tasks",
+            "doc_id": "10.1088/1361-6579/ac647c",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The CMSC contrastive objective",
+                    "predicate": "enabled",
+                    "object": "the model"
+                },
+                {
+                    "subject": "the model",
+                    "predicate": "learn",
+                    "object": "robust representations of ECG signals"
+                },
+                {
+                    "subject": "the CMSC contrastive objective",
+                    "predicate": "resulted in",
+                    "object": "a significant improvement in performance on downstream tasks"
+                },
+                {
+                    "subject": "a significant improvement in performance",
+                    "predicate": "occurred on",
+                    "object": "downstream tasks"
+                },
+                {
+                    "subject": "the CMSC contrastive objective",
+                    "predicate": "relates",
+                    "object": "The CMSC contrastive objective"
+                }
+            ],
+            "entities": {
+                "ECG": "CANCER"
+            }
+        },
+        "Xi4nRQuh": {
+            "name": "ECG-FM outperformed the Random Init. and Linear experiment suites on all tasks, with an average AUPRC increase of 15% and 20%, respectively",
+            "doc_id": "10.1088/1361-6579/ac647c",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "ECG-FM",
+                    "predicate": "outperformed",
+                    "object": "Random Init."
+                },
+                {
+                    "subject": "ECG-FM",
+                    "predicate": "outperformed",
+                    "object": "Linear experiment suites"
+                },
+                {
+                    "subject": "ECG-FM",
+                    "predicate": "achieved increase in AUPRC",
+                    "object": "15% on all tasks"
+                },
+                {
+                    "subject": "ECG-FM",
+                    "predicate": "achieved increase in AUPRC",
+                    "object": "20% on all tasks"
+                },
+                {
+                    "subject": "average AUPRC increase of ECG-FM",
+                    "predicate": "was",
+                    "object": "15% and 20%, respectively"
+                },
+                {
+                    "subject": "15% on all tasks",
+                    "predicate": "relates",
+                    "object": "20% on all tasks"
+                }
+            ],
+            "entities": {}
+        },
+        "sZV9sKiS": {
+            "name": "ECG-Chat achieves state-of-the-art results in ECG classification and retrieval tasks, with a significant improvement in performance when using all the training data",
+            "doc_id": "(Zhao;2023)",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "ECG-Chat",
+                    "predicate": "achieves",
+                    "object": "state-of-the-art results"
+                },
+                {
+                    "subject": "ECG-Chat",
+                    "predicate": "performs in",
+                    "object": "ECG classification and retrieval tasks"
+                },
+                {
+                    "subject": "using all the training data",
+                    "predicate": "leads to",
+                    "object": "a significant improvement in performance"
+                },
+                {
+                    "subject": "the significant improvement",
+                    "predicate": "occurs in",
+                    "object": "performance of ECG-Chat"
+                },
+                {
+                    "subject": "ECG-Chat with all training data",
+                    "predicate": "shows",
+                    "object": "state-of-the-art results in ECG classification and retrieval tasks"
+                },
+                {
+                    "subject": "the significant improvement",
+                    "predicate": "relates",
+                    "object": "a significant improvement in performance"
+                },
+                {
+                    "subject": "state-of-the-art results in ECG classification and retrieval tasks",
+                    "predicate": "relates",
+                    "object": "ECG classification and retrieval tasks"
+                },
+                {
+                    "subject": "ECG-Chat with all training data",
+                    "predicate": "relates",
+                    "object": "using all the training data"
+                }
+            ],
+            "entities": {
+                "ECG": "CANCER"
+            }
+        },
+        "K_2oDOzS": {
+            "name": "The model's diagnostic accuracy is relatively good, with generated reports being more fluent and colloquial, suitable for patients to read",
+            "doc_id": "(Zhao;2023)",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The model's diagnostic accuracy",
+                    "predicate": "is",
+                    "object": "relatively good"
+                },
+                {
+                    "subject": "generated reports",
+                    "predicate": "are",
+                    "object": "more fluent and colloquial"
+                },
+                {
+                    "subject": "generated reports",
+                    "predicate": "are",
+                    "object": "suitable for patients to read"
+                },
+                {
+                    "subject": "patients",
+                    "predicate": "can read",
+                    "object": "generated reports"
+                }
+            ],
+            "entities": {
+                "patients": "ORGANISM"
+            }
+        },
+        "AATlQ0X3": {
+            "name": "Using GraphRAG and DSPy modules improves the model's performance across key metrics, including Faithfulness, Answer Relevancy, and Context Recall",
+            "doc_id": "(Zhao;2023)",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "GraphRAG and DSPy modules",
+                    "predicate": "improves",
+                    "object": "the model's performance"
+                },
+                {
+                    "subject": "the model's performance",
+                    "predicate": "is measured across",
+                    "object": "key metrics"
+                },
+                {
+                    "subject": "key metrics",
+                    "predicate": "include",
+                    "object": "Faithfulness, Answer Relevancy, and Context Recall"
+                },
+                {
+                    "subject": "Using GraphRAG and DSPy modules",
+                    "predicate": "enhances",
+                    "object": "Faithfulness"
+                },
+                {
+                    "subject": "Using GraphRAG and DSPy modules",
+                    "predicate": "enhances",
+                    "object": "Answer Relevancy"
+                },
+                {
+                    "subject": "Using GraphRAG and DSPy modules",
+                    "predicate": "enhances",
+                    "object": "Context Recall"
+                }
+            ],
+            "entities": {
+                "GraphRAG": "CANCER"
+            }
+        },
+        "thMa40Mw": {
+            "name": "The ECG-Chat model achieves the best results in retrieval tasks when using BioLinkBert as the text encoder, and in classification tasks when using Med-CPT",
+            "doc_id": "(Zhao;2023)",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The ECG-Chat model",
+                    "predicate": "achieves",
+                    "object": "the best results"
+                },
+                {
+                    "subject": "The ECG-Chat model",
+                    "predicate": "uses",
+                    "object": "BioLinkBert as the text encoder"
+                },
+                {
+                    "subject": "The ECG-Chat model",
+                    "predicate": "performs well in",
+                    "object": "retrieval tasks"
+                },
+                {
+                    "subject": "The ECG-Chat model",
+                    "predicate": "uses",
+                    "object": "Med-CPT"
+                },
+                {
+                    "subject": "The ECG-Chat model",
+                    "predicate": "performs well in",
+                    "object": "classification tasks"
+                }
+            ],
+            "entities": {
+                "BioLinkBert": "CELL"
+            }
+        },
+        "dWy9fJVZ": {
+            "name": "Increasing the amount of training data from 10% to 100% significantly improves the model's performance, especially on retrieval tasks, with a notable increase in accuracy",
+            "doc_id": "(Zhao;2023)",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "Increasing the amount of training data from 10% to 100%",
+                    "predicate": "improves",
+                    "object": "the model's performance"
+                },
+                {
+                    "subject": "Increasing the amount of training data from 10% to 100%",
+                    "predicate": "increases",
+                    "object": "accuracy"
+                },
+                {
+                    "subject": "The model's performance",
+                    "predicate": "is improved",
+                    "object": "especially on retrieval tasks"
+                },
+                {
+                    "subject": "The increase in accuracy",
+                    "predicate": "is notable",
+                    "object": "on retrieval tasks"
+                },
+                {
+                    "subject": "Increasing the amount of training data from 10% to 100%",
+                    "predicate": "has impact on",
+                    "object": "retrieval tasks"
+                },
+                {
+                    "subject": "the model's performance",
+                    "predicate": "relates",
+                    "object": "The model's performance"
+                },
+                {
+                    "subject": "especially on retrieval tasks",
+                    "predicate": "relates",
+                    "object": "on retrieval tasks"
+                },
+                {
+                    "subject": "retrieval tasks",
+                    "predicate": "relates",
+                    "object": "on retrieval tasks"
+                }
+            ],
+            "entities": {}
+        },
+        "W6rtMAGn": {
+            "name": "MEH-MIDAS includes 37,401 patients with diabetes, comprising 16,429 female and 20,966 male patients, with a mean age of 64.5 and standard deviation of 13.3.",
+            "doc_id": "10.1038/s41586-023-06555-x",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "MEH-MIDAS",
+                    "predicate": "includes",
+                    "object": "37,401 patients with diabetes"
+                },
+                {
+                    "subject": "37,401 patients with diabetes",
+                    "predicate": "comprising",
+                    "object": "16,429 female patients"
+                },
+                {
+                    "subject": "37,401 patients with diabetes",
+                    "predicate": "comprising",
+                    "object": "20,966 male patients"
+                },
+                {
+                    "subject": "MEH-MIDAS",
+                    "predicate": "has mean age",
+                    "object": "64.5"
+                },
+                {
+                    "subject": "MEH-MIDAS",
+                    "predicate": "has standard deviation",
+                    "object": "13.3"
+                },
+                {
+                    "subject": "16,429 female patients",
+                    "predicate": "are part of",
+                    "object": "37,401 patients with diabetes"
+                },
+                {
+                    "subject": "20,966 male patients",
+                    "predicate": "are part of",
+                    "object": "37,401 patients with diabetes"
+                }
+            ],
+            "entities": {
+                "patients": "ORGANISM",
+                "female": "ORGANISM"
+            }
+        },
+        "6j3HtHpB": {
+            "name": "The dataset consists of 904,170 colour fundus photographs (CFPs) and 736,442 optical coherence tomography (OCT) scans, which were used to develop the RETFound model.",
+            "doc_id": "10.1038/s41586-023-06555-x",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The dataset",
+                    "predicate": "consists of",
+                    "object": "904,170 colour fundus photographs (CFPs) and 736,442 optical coherence tomography (OCT) scans"
+                },
+                {
+                    "subject": "904,170 colour fundus photographs (CFPs) and 736,442 optical coherence tomography (OCT) scans",
+                    "predicate": "were used to develop",
+                    "object": "the RETFound model"
+                },
+                {
+                    "subject": "The dataset",
+                    "predicate": "was used to develop",
+                    "object": "the RETFound model"
+                }
+            ],
+            "entities": {
+                "fundus": "MULTI_TISSUE_STRUCTURE"
+            }
+        },
+        "m5tEEUuo": {
+            "name": "Experiments conducted on both female and male patients using the RETFound model achieved significant results, with all MEH-MIDAS data utilized for model development and subsets of MEH-AlzEye data employed for downstream validation.",
+            "doc_id": "10.1038/s41586-023-06555-x",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "Experiments conducted on both female and male patients",
+                    "predicate": "achieved",
+                    "object": "significant results"
+                },
+                {
+                    "subject": "Experiments conducted on both female and male patients using the RETFound model",
+                    "predicate": "utilized",
+                    "object": "all MEH-MIDAS data"
+                },
+                {
+                    "subject": "Subsets of MEH-AlzEye data",
+                    "predicate": "employed",
+                    "object": "downstream validation"
+                },
+                {
+                    "subject": "The RETFound model",
+                    "predicate": "used for",
+                    "object": "model development"
+                },
+                {
+                    "subject": "All MEH-MIDAS data",
+                    "predicate": "utilized for",
+                    "object": "model development"
+                },
+                {
+                    "subject": "Subsets of MEH-AlzEye data",
+                    "predicate": "employed for",
+                    "object": "downstream validation"
+                },
+                {
+                    "subject": "Experiments conducted on both female and male patients",
+                    "predicate": "relates",
+                    "object": "Experiments conducted on both female and male patients using the RETFound model"
+                }
+            ],
+            "entities": {
+                "female": "ORGANISM",
+                "patients": "ORGANISM",
+                "MEH-AlzEye": "SIMPLE_CHEMICAL"
+            }
+        },
+        "KZ7ZwQ0O": {
+            "name": "The replication of experiment results was confirmed five times with five different random seeds, ensuring the reliability of the findings.",
+            "doc_id": "10.1038/s41586-023-06555-x",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The replication of experiment results",
+                    "predicate": "was confirmed",
+                    "object": "five times"
+                },
+                {
+                    "subject": "The replication of experiment results",
+                    "predicate": "was confirmed with",
+                    "object": "five different random seeds"
+                },
+                {
+                    "subject": "The replication of experiment results",
+                    "predicate": "ensuring",
+                    "object": "the reliability of the findings"
+                },
+                {
+                    "subject": "Five different random seeds",
+                    "predicate": "were used for",
+                    "object": "The replication of experiment results"
+                },
+                {
+                    "subject": "The reliability of the findings",
+                    "predicate": "was ensured by",
+                    "object": "The replication of experiment results"
+                },
+                {
+                    "subject": "five different random seeds",
+                    "predicate": "relates",
+                    "object": "Five different random seeds"
+                },
+                {
+                    "subject": "The reliability of the findings",
+                    "predicate": "relates",
+                    "object": "the reliability of the findings"
+                }
+            ],
+            "entities": {}
+        },
+        "NSQDkIyt": {
+            "name": "Data from 502,665 UK residents aged between 40 and 69 years, registered with the National Health Service, were collected, including 82,885 CFP and OCT examinations, resulting in a total of 171,500 retinal images.",
+            "doc_id": "10.1038/s41586-023-06555-x",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "Data from 502,665 UK residents aged between 40 and 69 years",
+                    "predicate": "were collected",
+                    "object": "retinal images"
+                },
+                {
+                    "subject": "502,665 UK residents aged between 40 and 69 years",
+                    "predicate": "were registered with",
+                    "object": "the National Health Service"
+                },
+                {
+                    "subject": "82,885 CFP and OCT examinations",
+                    "predicate": "were included in",
+                    "object": "data collection"
+                },
+                {
+                    "subject": "Data collection",
+                    "predicate": "resulted in",
+                    "object": "a total of 171,500 retinal images"
+                },
+                {
+                    "subject": "Retinal images",
+                    "predicate": "totaled",
+                    "object": "171,500"
+                },
+                {
+                    "subject": "CFP and OCT examinations",
+                    "predicate": "numbered",
+                    "object": "82,885"
+                },
+                {
+                    "subject": "502,665 UK residents aged between 40 and 69 years",
+                    "predicate": "relates",
+                    "object": "Data from 502,665 UK residents aged between 40 and 69 years"
+                },
+                {
+                    "subject": "Retinal images",
+                    "predicate": "relates",
+                    "object": "retinal images"
+                },
+                {
+                    "subject": "82,885 CFP and OCT examinations",
+                    "predicate": "relates",
+                    "object": "CFP and OCT examinations"
+                }
+            ],
+            "entities": {
+                "UK": "GENE_OR_GENE_PRODUCT",
+                "CFP": "SIMPLE_CHEMICAL",
+                "retinal": "MULTI_TISSUE_STRUCTURE"
+            }
+        },
+        "AWY6dcvP": {
+            "name": "The model Virchow achieved state-of-the-art performance on multiple downstream tasks, including cancer detection and tumor classification",
+            "doc_id": "10.1038/s41591-024-03141-0",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The model Virchow",
+                    "predicate": "achieved",
+                    "object": "state-of-the-art performance"
+                },
+                {
+                    "subject": "The model Virchow",
+                    "predicate": "performed on",
+                    "object": "multiple downstream tasks"
+                },
+                {
+                    "subject": "Multiple downstream tasks",
+                    "predicate": "include",
+                    "object": "cancer detection and tumor classification"
+                },
+                {
+                    "subject": "The model Virchow",
+                    "predicate": "detected",
+                    "object": "cancer"
+                },
+                {
+                    "subject": "The model Virchow",
+                    "predicate": "classified",
+                    "object": "tumors"
+                },
+                {
+                    "subject": "Multiple downstream tasks",
+                    "predicate": "relates",
+                    "object": "multiple downstream tasks"
+                }
+            ],
+            "entities": {
+                "cancer": "CANCER",
+                "tumor": "CANCER"
+            }
+        },
+        "_jwGiSJu": {
+            "name": "The area under the receiver operating characteristic curve (AUC-ROC) for cancer detection was 0.95, outperforming other models such as UNI and Phikon",
+            "doc_id": "10.1038/s41591-024-03141-0",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The area under the receiver operating characteristic curve (AUC-ROC) for cancer detection",
+                    "predicate": "was",
+                    "object": "0.95"
+                },
+                {
+                    "subject": "The area under the receiver operating characteristic curve (AUC-ROC) for cancer detection",
+                    "predicate": "outperforming",
+                    "object": "other models such as UNI and Phikon"
+                }
+            ],
+            "entities": {
+                "cancer": "CANCER"
+            }
+        },
+        "NT66-3SY": {
+            "name": "The model demonstrated strong generalizability across different datasets, including CRC, WILDS, PCam, MHIST, TCGA TIL, MIDOG, and TCGA CRC-MSI",
+            "doc_id": "10.1038/s41591-024-03141-0",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The model",
+                    "predicate": "demonstrated",
+                    "object": "strong generalizability"
+                },
+                {
+                    "subject": "The model",
+                    "predicate": "demonstrated strong generalizability across",
+                    "object": "different datasets"
+                },
+                {
+                    "subject": "Different datasets",
+                    "predicate": "include",
+                    "object": "CRC, WILDS, PCam, MHIST, TCGA TIL, MIDOG, and TCGA CRC-MSI"
+                },
+                {
+                    "subject": "The model",
+                    "predicate": "demonstrated strong generalizability across",
+                    "object": "CRC"
+                },
+                {
+                    "subject": "The model",
+                    "predicate": "demonstrated strong generalizability across",
+                    "object": "WILDS"
+                },
+                {
+                    "subject": "The model",
+                    "predicate": "demonstrated strong generalizability across",
+                    "object": "PCam"
+                },
+                {
+                    "subject": "The model",
+                    "predicate": "demonstrated strong generalizability across",
+                    "object": "MHIST"
+                },
+                {
+                    "subject": "The model",
+                    "predicate": "demonstrated strong generalizability across",
+                    "object": "TCGA TIL"
+                },
+                {
+                    "subject": "The model",
+                    "predicate": "demonstrated strong generalizability across",
+                    "object": "MIDOG"
+                },
+                {
+                    "subject": "The model",
+                    "predicate": "demonstrated strong generalizability across",
+                    "object": "TCGA CRC-MSI"
+                }
+            ],
+            "entities": {
+                "CRC": "CANCER",
+                "WILDS": "SIMPLE_CHEMICAL",
+                "MIDOG": "SIMPLE_CHEMICAL",
+                "CRC-MSI": "ORGANISM"
+            }
+        },
+        "M7X-kmZC": {
+            "name": "The attention mechanism in Agata reduced GPU memory consumption by using a learned weighted sum of all tile-level features, allowing for efficient aggregation of tens or hundreds of thousands of tiles in a specimen",
+            "doc_id": "10.1038/s41591-024-03141-0",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The attention mechanism in Agata",
+                    "predicate": "reduced",
+                    "object": "GPU memory consumption"
+                },
+                {
+                    "subject": "The attention mechanism in Agata",
+                    "predicate": "uses",
+                    "object": "a learned weighted sum of all tile-level features"
+                },
+                {
+                    "subject": "A learned weighted sum of all tile-level features",
+                    "predicate": "allows for",
+                    "object": "efficient aggregation of tens or hundreds of thousands of tiles"
+                },
+                {
+                    "subject": "Efficient aggregation",
+                    "predicate": "occurs in",
+                    "object": "a specimen"
+                },
+                {
+                    "subject": "Tens or hundreds of thousands of tiles",
+                    "predicate": "are aggregated in",
+                    "object": "a specimen"
+                },
+                {
+                    "subject": "A learned weighted sum of all tile-level features",
+                    "predicate": "relates",
+                    "object": "a learned weighted sum of all tile-level features"
+                },
+                {
+                    "subject": "efficient aggregation of tens or hundreds of thousands of tiles",
+                    "predicate": "relates",
+                    "object": "Tens or hundreds of thousands of tiles"
+                }
+            ],
+            "entities": {}
+        },
+        "mlXvd3AE": {
+            "name": "The Virchow model can be accessed for non-commercial research and replication of the results at https://huggingface.co/paige-ai/Virchow, with a public software development kit available at https://github.com/Paige-AI/paige-ml-sdk",
+            "doc_id": "10.1038/s41591-024-03141-0",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The Virchow model",
+                    "predicate": "can be accessed",
+                    "object": "for non-commercial research"
+                },
+                {
+                    "subject": "The Virchow model",
+                    "predicate": "can be accessed",
+                    "object": "for replication of the results"
+                },
+                {
+                    "subject": "The Virchow model",
+                    "predicate": "is available at",
+                    "object": "https://huggingface.co/paige-ai/Virchow"
+                },
+                {
+                    "subject": "A public software development kit",
+                    "predicate": "is available at",
+                    "object": "https://github.com/Paige-AI/paige-ml-sdk"
+                },
+                {
+                    "subject": "The Virchow model",
+                    "predicate": "has",
+                    "object": "a public software development kit"
+                },
+                {
+                    "subject": "a public software development kit",
+                    "predicate": "relates",
+                    "object": "A public software development kit"
+                }
+            ],
+            "entities": {}
+        },
+        "5DMtbNhF": {
+            "name": "The foundation model achieved state-of-the-art performance on three distinct cancer image biomarker tasks, with a significant improvement over baseline models",
+            "doc_id": "10.1038/s42256-024-00807-9",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The foundation model",
+                    "predicate": "achieved",
+                    "object": "state-of-the-art performance"
+                },
+                {
+                    "subject": "The foundation model",
+                    "predicate": "performed on",
+                    "object": "three distinct cancer image biomarker tasks"
+                },
+                {
+                    "subject": "The foundation model",
+                    "predicate": "showed improvement over",
+                    "object": "baseline models"
+                },
+                {
+                    "subject": "The improvement",
+                    "predicate": "was significant",
+                    "object": "over baseline models"
+                },
+                {
+                    "subject": "Three distinct cancer image biomarker tasks",
+                    "predicate": "were performed on",
+                    "object": "The foundation model"
+                },
+                {
+                    "subject": "over baseline models",
+                    "predicate": "relates",
+                    "object": "baseline models"
+                },
+                {
+                    "subject": "Three distinct cancer image biomarker tasks",
+                    "predicate": "relates",
+                    "object": "three distinct cancer image biomarker tasks"
+                }
+            ],
+            "entities": {
+                "cancer": "CANCER"
+            }
+        },
+        "ys18c02v": {
+            "name": "Training times for the foundation model were 120 minutes for use case 1, 90 minutes for use case 2, and 60 minutes for use case 3, using six cores on AMD EPYCTM 7402 P Processor 24-core @ 2.80 GHz",
+            "doc_id": "10.1038/s42256-024-00807-9",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "Training times for the foundation model",
+                    "predicate": "were",
+                    "object": "120 minutes"
+                },
+                {
+                    "subject": "Training times for the foundation model for use case 1",
+                    "predicate": "were",
+                    "object": "120 minutes"
+                },
+                {
+                    "subject": "Training times for the foundation model for use case 2",
+                    "predicate": "were",
+                    "object": "90 minutes"
+                },
+                {
+                    "subject": "Training times for the foundation model for use case 3",
+                    "predicate": "were",
+                    "object": "60 minutes"
+                },
+                {
+                    "subject": "Foundation model training",
+                    "predicate": "used",
+                    "object": "six cores"
+                },
+                {
+                    "subject": "Foundation model training",
+                    "predicate": "used",
+                    "object": "AMD EPYCTM 7402 P Processor 24-core @ 2.80 GHz"
+                },
+                {
+                    "subject": "Six cores on AMD EPYCTM 7402 P Processor 24-core @ 2.80 GHz",
+                    "predicate": "were used for",
+                    "object": "foundation model training"
+                },
+                {
+                    "subject": "Training times for the foundation model for use case 3",
+                    "predicate": "relates",
+                    "object": "Training times for the foundation model for use case 2"
+                },
+                {
+                    "subject": "Training times for the foundation model for use case 3",
+                    "predicate": "relates",
+                    "object": "Training times for the foundation model for use case 1"
+                },
+                {
+                    "subject": "Training times for the foundation model for use case 3",
+                    "predicate": "relates",
+                    "object": "Training times for the foundation model"
+                },
+                {
+                    "subject": "120 minutes",
+                    "predicate": "relates",
+                    "object": "90 minutes"
+                },
+                {
+                    "subject": "120 minutes",
+                    "predicate": "relates",
+                    "object": "60 minutes"
+                },
+                {
+                    "subject": "90 minutes",
+                    "predicate": "relates",
+                    "object": "60 minutes"
+                },
+                {
+                    "subject": "Training times for the foundation model for use case 2",
+                    "predicate": "relates",
+                    "object": "Training times for the foundation model for use case 1"
+                },
+                {
+                    "subject": "Training times for the foundation model for use case 2",
+                    "predicate": "relates",
+                    "object": "Training times for the foundation model"
+                },
+                {
+                    "subject": "Training times for the foundation model for use case 1",
+                    "predicate": "relates",
+                    "object": "Training times for the foundation model"
+                },
+                {
+                    "subject": "AMD EPYCTM 7402 P Processor 24-core @ 2.80 GHz",
+                    "predicate": "relates",
+                    "object": "Six cores on AMD EPYCTM 7402 P Processor 24-core @ 2.80 GHz"
+                }
+            ],
+            "entities": {
+                "EPYCTM 7402": "CELL"
+            }
+        },
+        "uchZaABz": {
+            "name": "Memory usage for the feature extraction step remained constant across use-cases at approximately 10 GB of GPU VRAM and 20 GB of System RAM",
+            "doc_id": "10.1038/s42256-024-00807-9",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "Memory usage for the feature extraction step",
+                    "predicate": "remained",
+                    "object": "constant"
+                },
+                {
+                    "subject": "Memory usage for the feature extraction step",
+                    "predicate": "was at",
+                    "object": "approximately 10 GB of GPU VRAM"
+                },
+                {
+                    "subject": "Memory usage for the feature extraction step",
+                    "predicate": "was at",
+                    "object": "approximately 20 GB of System RAM"
+                },
+                {
+                    "subject": "Memory usage",
+                    "predicate": "varied",
+                    "object": "across use-cases"
+                },
+                {
+                    "subject": "Memory usage for the feature extraction step",
+                    "predicate": "remained constant across",
+                    "object": "use-cases"
+                }
+            ],
+            "entities": {}
+        },
+        "ukkCarT4": {
+            "name": "The fine-tuning approach required significantly more memory, with a peak usage of 30 GB of GPU VRAM and 40 GB of System RAM",
+            "doc_id": "10.1038/s42256-024-00807-9",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The fine-tuning approach",
+                    "predicate": "required",
+                    "object": "significantly more memory"
+                },
+                {
+                    "subject": "The fine-tuning approach",
+                    "predicate": "had",
+                    "object": "a peak usage"
+                },
+                {
+                    "subject": "a peak usage",
+                    "predicate": "was",
+                    "object": "30 GB of GPU VRAM"
+                },
+                {
+                    "subject": "a peak usage",
+                    "predicate": "was",
+                    "object": "40 GB of System RAM"
+                },
+                {
+                    "subject": "The fine-tuning approach",
+                    "predicate": "used",
+                    "object": "30 GB of GPU VRAM"
+                },
+                {
+                    "subject": "The fine-tuning approach",
+                    "predicate": "used",
+                    "object": "40 GB of System RAM"
+                }
+            ],
+            "entities": {}
+        },
+        "Q2sYaSx2": {
+            "name": "The foundation model outperformed linear modeling on extracted features in terms of accuracy, with an average improvement of 15% across the three use cases",
+            "doc_id": "10.1038/s42256-024-00807-9",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The foundation model",
+                    "predicate": "outperformed",
+                    "object": "linear modeling"
+                },
+                {
+                    "subject": "The foundation model",
+                    "predicate": "outperformed on",
+                    "object": "extracted features"
+                },
+                {
+                    "subject": "The foundation model",
+                    "predicate": "improved in terms of",
+                    "object": "accuracy"
+                },
+                {
+                    "subject": "The average improvement",
+                    "predicate": "was",
+                    "object": "15%"
+                },
+                {
+                    "subject": "The average improvement of 15%",
+                    "predicate": "occurred across",
+                    "object": "the three use cases"
+                }
+            ],
+            "entities": {}
+        },
+        "tkkfRGm9": {
+            "name": "The multi-signal variant of the model that analyzes synchronously captured PCG and ECG signals achieves better performance than individual signal models",
+            "doc_id": "10.1038/s44325-024-00027-5",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The multi-signal variant of the model",
+                    "predicate": "analyzes",
+                    "object": "synchronously captured PCG and ECG signals"
+                },
+                {
+                    "subject": "The multi-signal variant of the model",
+                    "predicate": "achieves",
+                    "object": "better performance"
+                },
+                {
+                    "subject": "better performance",
+                    "predicate": "is compared to",
+                    "object": "individual signal models"
+                },
+                {
+                    "subject": "The multi-signal variant of the model",
+                    "predicate": "performs better than",
+                    "object": "individual signal models"
+                }
+            ],
+            "entities": {}
+        },
+        "scufk1Xk": {
+            "name": "The PCG mel-spectrogram patches and ECG segments interact with each other via the attention mechanism, allowing the model to learn features coming from the individual signals as well as relationships between PCG and ECG features",
+            "doc_id": "10.1038/s44325-024-00027-5",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The PCG mel-spectrogram patches and ECG segments",
+                    "predicate": "interact with",
+                    "object": "each other"
+                },
+                {
+                    "subject": "The PCG mel-spectrogram patches and ECG segments",
+                    "predicate": "interact via",
+                    "object": "the attention mechanism"
+                },
+                {
+                    "subject": "the model",
+                    "predicate": "learn",
+                    "object": "features coming from the individual signals"
+                },
+                {
+                    "subject": "the model",
+                    "predicate": "learn",
+                    "object": "relationships between PCG and ECG features"
+                },
+                {
+                    "subject": "features",
+                    "predicate": "come from",
+                    "object": "the individual signals"
+                },
+                {
+                    "subject": "relationships",
+                    "predicate": "exist between",
+                    "object": "PCG and ECG features"
+                }
+            ],
+            "entities": {
+                "ECG": "ORGANISM"
+            }
+        },
+        "5RXSSGZs": {
+            "name": "The model reconstructs the input signals by predicting the pixel values for each masked patch of the PCG mel-spectrogram and/or the sample values for each masked segment of the ECG signal with a mean squared error (MSE) loss function",
+            "doc_id": "10.1038/s44325-024-00027-5",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The model",
+                    "predicate": "reconstructs",
+                    "object": "the input signals"
+                },
+                {
+                    "subject": "The model",
+                    "predicate": "predicts",
+                    "object": "the pixel values for each masked patch of the PCG mel-spectrogram"
+                },
+                {
+                    "subject": "The model",
+                    "predicate": "predicts",
+                    "object": "the sample values for each masked segment of the ECG signal"
+                },
+                {
+                    "subject": "The model",
+                    "predicate": "uses",
+                    "object": "a mean squared error (MSE) loss function"
+                },
+                {
+                    "subject": "The prediction process",
+                    "predicate": "involves",
+                    "object": "masking patches of the PCG mel-spectrogram"
+                },
+                {
+                    "subject": "The prediction process",
+                    "predicate": "involves",
+                    "object": "masking segments of the ECG signal"
+                }
+            ],
+            "entities": {
+                "PCG": "GENE_OR_GENE_PRODUCT"
+            }
+        },
+        "dZrQfd_w": {
+            "name": "Fine-tuning the last few layers of the encoder and the classification head, while freezing the initial layers of the encoder, results in optimal performance for the classification tasks",
+            "doc_id": "10.1038/s44325-024-00027-5",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "Fine-tuning the last few layers of the encoder and the classification head",
+                    "predicate": "results in",
+                    "object": "optimal performance"
+                },
+                {
+                    "subject": "Fine-tuning the last few layers of the encoder and the classification head",
+                    "predicate": "is done by",
+                    "object": "freezing the initial layers of the encoder"
+                },
+                {
+                    "subject": "Freezing the initial layers of the encoder",
+                    "predicate": "occurs while",
+                    "object": "fine-tuning the last few layers of the encoder and the classification head"
+                },
+                {
+                    "subject": "Optimal performance",
+                    "predicate": "is achieved for",
+                    "object": "the classification tasks"
+                },
+                {
+                    "subject": "freezing the initial layers of the encoder",
+                    "predicate": "relates",
+                    "object": "Freezing the initial layers of the encoder"
+                },
+                {
+                    "subject": "fine-tuning the last few layers of the encoder and the classification head",
+                    "predicate": "relates",
+                    "object": "Fine-tuning the last few layers of the encoder and the classification head"
+                }
+            ],
+            "entities": {
+                "layers": "ANATOMICAL_SYSTEM",
+                "head": "PATHOLOGICAL_FORMATION"
+            }
+        },
+        "Uy9aHFBq": {
+            "name": "The model achieves state-of-the-art performance on the classification tasks, with specific hyper-parameters such as label-smoothing, masking-ratio, and number of encoder half-blocks unfrozen, having a significant impact on the performance, with optimal values resulting in the best AUC on the validation set",
+            "doc_id": "10.1038/s44325-024-00027-5",
+            "category": "",
+            "llm_id": "llama3.3:70b-instruct-q8_0/5wExZ",
+            "details": [
+                {
+                    "subject": "The model",
+                    "predicate": "achieves",
+                    "object": "state-of-the-art performance"
+                },
+                {
+                    "subject": "The model",
+                    "predicate": "performs on",
+                    "object": "the classification tasks"
+                },
+                {
+                    "subject": "Specific hyper-parameters",
+                    "predicate": "have",
+                    "object": "a significant impact on the performance"
+                },
+                {
+                    "subject": "Label-smoothing, masking-ratio, and number of encoder half-blocks unfrozen",
+                    "predicate": "are",
+                    "object": "specific hyper-parameters"
+                },
+                {
+                    "subject": "Optimal values",
+                    "predicate": "result in",
+                    "object": "the best AUC on the validation set"
+                },
+                {
+                    "subject": "The performance",
+                    "predicate": "is impacted by",
+                    "object": "specific hyper-parameters"
+                },
+                {
+                    "subject": "The model with optimal hyper-parameters",
+                    "predicate": "achieves",
+                    "object": "the best AUC on the validation set"
+                }
+            ],
+            "entities": {
+                "masking-ratio": "SIMPLE_CHEMICAL"
+            }
+        }
+    },
+    "documents": {
+        "(Kirillov;2023-04-05)": {
+            "doi": null,
+            "short_citation": "(Kirillov;2023-04-05)",
+            "long_citation": "Kirillov, et al., Segment Anything, , 2023-04-05",
+            "category": ""
+        },
+        "10.1161/CIR.0000000000000570": {
+            "doi": "10.1161/CIR.0000000000000570",
+            "short_citation": "(Dahlan;2023-11-21)",
+            "long_citation": "Dahlan, et al., Echocardiogram Foundation Model -Application 1: Estimating Ejection Fraction, , 2023-11-21",
+            "category": ""
+        },
+        "10.1146/annurev-pathmechdis-051222-113147": {
+            "doi": "10.1146/annurev-pathmechdis-051222-113147",
+            "short_citation": "(Dippel;2024-06-11)",
+            "long_citation": "Dippel, et al., RudolfV: A Foundation Model by Pathologists for Pathologists, , 2024-06-11",
+            "category": ""
+        },
+        "(Liu;2021)": {
+            "doi": null,
+            "short_citation": "(Liu;2021)",
+            "long_citation": "Liu, et al., VIS-MAE: An Efficient Self-supervised Learning Approach on Medical Image Segmentation and Classification, , 2021",
+            "category": ""
+        },
+        "(Yu;2024-10-23)": {
+            "doi": null,
+            "short_citation": "(Yu;2024-10-23)",
+            "long_citation": "Yu, et al., ECG Semantic Integrator (ESI): A Foundation ECG Model Pretrained with LLM-Enhanced Cardiological Text, , 2024-10-23",
+            "category": ""
+        },
+        "10.1088/1361-6579/ac647c": {
+            "doi": "10.1088/1361-6579/ac647c",
+            "short_citation": "(Mckeen;2025-05-30)",
+            "long_citation": "Mckeen, et al., ECG-FM: An Open Electrocardiogram Foundation Model, , 2025-05-30",
+            "category": ""
+        },
+        "(Zhao;2023)": {
+            "doi": null,
+            "short_citation": "(Zhao;2023)",
+            "long_citation": "Zhao, et al., ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis, , 2023",
+            "category": ""
+        },
+        "10.1038/s41586-023-06555-x": {
+            "doi": "10.1038/s41586-023-06555-x",
+            "short_citation": "(Zhou;2023-09-13)",
+            "long_citation": "Zhou, et al., A foundation model for generalizable disease detection from retinal images, , 2023-09-13",
+            "category": ""
+        },
+        "10.1038/s41591-024-03141-0": {
+            "doi": "10.1038/s41591-024-03141-0",
+            "short_citation": "(Vorontsov;2024-07-22)",
+            "long_citation": "Vorontsov, et al., A foundation model for clinical-grade computational pathology and rare cancers detection, , 2024-07-22",
+            "category": ""
+        },
+        "10.1038/s42256-024-00807-9": {
+            "doi": "10.1038/s42256-024-00807-9",
+            "short_citation": "(Pai;2024-03-15)",
+            "long_citation": "Pai, et al., nature machine intelligence Article, , 2024-03-15",
+            "category": ""
+        },
+        "10.1038/s44325-024-00027-5": {
+            "doi": "10.1038/s44325-024-00027-5",
+            "short_citation": "(Mathew;2021)",
+            "long_citation": "Mathew, et al., npj | cardiovascular health Article, , 2021",
+            "category": ""
+        }
+    },
+    "lang_info": {
+        "llama3.3:70b-instruct-q8_0/5wExZ": {
+            "llm_tag": "llama3.3:70b-instruct-q8_0",
+            "ner_tag": "en_ner_bionlp13cg_md",
+            "vector_distance": "en_ner_bionlp13cg_md",
+            "prompt_template": "[BEGIN ARTICLE] {article} [END ARTICLE]\n[INSTRUCTIONS]\nIn the article above identify up to 5 important strong positive or negative findings that are original results. \nDo include results related to data, dataset, AI, machine learning. Formulate the finding to be self explainable and independent statement.\nFormulate the finding with enhanced sentence with particular explanation if needed using vocabulary understandable for domain expert used in the article. Be as specific and include details as possible.\nDo include original results and strong statements. Do include numbers or other very specific adjectives or adverbs. If not such numbers or details are in the article, do not include sich finding.\nDo include findings that are in result, discussion, conclusion section.\nDo not include citation of other authors. \nDo not include findings that are in introduction section referred from other sources or methods used. \nDo not include authors or their abbreviation that performed the study usually expressed by terms 'analyzed by ...', 'organized by ...', 'somebody concluded ...'.\nDo not include generic knowledge that something was studied or analysed. Include specific with numbers and concrete terms and strong verbs.\nDo not include findings that are just cited from another source. Do not include general findings without details.\nInstead of passive form statement: 'the study revealed that (some content)', output the active form statement: '(some content)'.\nInstead of 'some' or 'certain' use specific numbers, specific objects or subjects from the article, if they are known. \nReturn the list in a JSON array in the format: `[finding1,finding2,...]`\nDo not add any other structure in JSON, just findings as an array of strings. \nDo not include any other explanation or notes, just output JSON.\n",
+            "prompt_entities_template": "\nFrom the following Sentence and identified Entities, try to construct knowledge graph in terms of multiple triplets using 'subject', 'predicate','object', so it is stronly representative and expressive.\nOutput the knowledge graph as array of tripplets as follow:\n'[{\"subject\":subject1,\"predicate\":predicate1,\"object\":object1 }]'. \nThe 'subject' must contain substantive, adjective, number, adverbs and other description related to noun or number.\nThe 'predicate' in tripplet must contain only verb itself and at most a preposition or adverb. \nThe 'object' in tripplet must contain substantive, adjective, number, adverbs and other description related to noun or number and that refers to subject.\nDo not report null in subject, predicate or object, instead add appropriate non-null subject,predicate,object that agrees with the sentence.\nAdd other object or subject it is not among Entities if necessarry to complete the tripplet.\nOutput only JSON and do not include any other explanation, notes or suggestion. \n\nEntities: '{entities}'\nSentence: '{finding}'\n",
+            "prompt_performance_template": "[BEGIN ARTICLE] {article} [END ARTICLE]\n[INSTRUCTIONS]\nIn the article above find all original results that refers to sensitivity, specificity, AUC or other performance metrics of some biomarker or test.\nIf yes, for each such performance metrics extract and return the reported statistics values that are reported exactly or by word if only literal estimation is provided.\nExtract sensitivity, specificity, accuracy, precision, prevalence, f1score or other if they are reported and extract also context (sentence or sentences from the article that refer the performance metrics values). Output the following JSON format that includes array:\n\"{ 'performance': [{'test name':'name of the test or marker that performance is related to','context':'sentence or sentences from the article that refer the performance metrics values','sensitivity':'value or word or empty','specificity':'value or word or empty','accuracy':'value or empty','AUC':'value or empty','precision':'value or empty','prevalence':'value or empty','f1score':'value or empty','name of other metrics':'value of other metrics' } }\"\n\nIn the article above find also original results that refers to pharmacokinetics parameters such as volume of distribution, clearance, bioavailability, absorption rate and\nif yes, for each of such kinetic parameters return the reported values bioavailability, peak concentration, volume of distribution, clearance and other if they are reported in the following JSON format that includes array:\n\"{ 'kinetics': [{'context':'what biomarker, drug or other compound kinetics was reported and sentences from the article that refer the kinetics','bioavailability':'value or empty','peak_concentration':'value or empty','volume_of_distribution':'value or empty','clearance':'value or empty','name of other metrics':'value of other metrics' } ] }\"\nIf no performance or kinetics are detected, return just empty JSON structure.\nDo not include any other explanation or notes, just JSON.\n"
+        }
+    }
+}

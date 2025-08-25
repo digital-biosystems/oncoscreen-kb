@@ -1,4 +1,4 @@
-@charset "UTF-8";.message{background-color:#add8e6}.chartjsgeo{width:100vw;height:100vh}.chartjsgeocontainer{position:relative}.chartjsgeodesc{position:absolute;bottom:5px;left:5px;background-color:#d3d3d3;padding:10px;font-size:x-small}.truncate{display:inline-block;max-width:40ch;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}/*!
+@charset "UTF-8";.message{background-color:#add8e6}#help{height:100vh;width:100vw;margin:0;padding:0;overflow:hidden}iframe{height:100%;width:100%;border:none;display:block}.chartjsgeo{width:100vw;height:100vh}.chartjsgeocontainer{position:relative}.chartjsgeodesc{position:absolute;bottom:5px;left:5px;background-color:#d3d3d3;padding:10px;font-size:x-small}.truncate{display:inline-block;max-width:40ch;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}/*!
 * Copyright (c) HANDSONCODE sp. z o. o.
 *
 * HANDSONTABLE is a software distributed by HANDSONCODE sp. z o. o., a Polish corporation based in
